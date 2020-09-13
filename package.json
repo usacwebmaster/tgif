@@ -1,3 +1,6 @@
 {
-	"private": true
+	"private": true,
+	"devDependencies": {
+		"@11ty/eleventy": "^0.11.0"
+	}
 }
