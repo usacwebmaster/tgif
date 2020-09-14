@@ -1,6 +1,72 @@
 <!DOCTYPE html>
 <html lang=en>
-	<title><%= title %></title>
+	<title><%= title %> &mdash; TGIF at UCLA</title>
 
 	<body>
-		<%- content %>
+		<header>
+			<h1><img src=/img/TGIF.png alt="The Green Initiative Fund"></h1>
+			<nav>
+				<ul>
+					<%# TODO: Navigation system %>
+					<li><a href>About Us</a>
+					<li><a href>Apply for Funding</a>
+					<li><a href>Access Funding</a>
+					<li><a href>Funded Projects</a>
+				</ul>
+			</nav>
+		</header>
+
+		<main>
+			<article>
+				<%- content %>
+			</article>
+		</main>
+
+		<footer>
+			<section>
+				<h1><img src=/img/TGIF-quiet.png alt="TGIF Contact Information"></h1>
+
+				<h2>Contact</h2>
+				<address>
+					<ul>
+						<li><a href=tel:+1-310-206-0703>(310) 206-0703</a>
+						<li><a href=mailto:tgif@asucla.ucla.edu>tgif@asucla.ucla.edu</a>
+						<li><a href=mailto:tgif@asucla.ucla.edu>usacwebmaster@asucla.ucla.edu</a>
+					</ul>
+				</address>
+
+				<h2>Office Address</h2>
+				<address>
+					308 Westwood Plaza<br>
+					Ackerman Union 262G<br>
+					Los Angeles, CA 90095
+				</address>
+
+				<h2>TGIF Grant Coordinator</h2>
+				<address>
+					<p>Jessica Alexander
+					<p><a href=mailto:tgif@asucla.ucla.edu>usacwebmaster@asucla.ucla.edu</a>
+				</address>
+
+				<h2>Social Media</h2>
+				<ul>
+					<li><a href=https://www.facebook.com/tgifucla>Facebook</a>
+					<li><a href=https://www.instagram.com/tgifucla>Instagram</a>
+					<li><a href=https://twitter.com/tgifucla>Twitter</a>
+				</ul>
+			</section>
+
+			<section>
+				<hgroup>
+					<h1>TGIF Virtual Office Hours</h1>
+					<h2>Have questions about TGIF or the Req process?</h2>
+				</hgroup>
+
+				<ul>
+					<li>Tuesdays 4&ndash;6PM</li>
+					<li>Thursdays 2&ndash;4PM</li>
+				</ul>
+
+				<p><a href>Sign up</a>
+			</section>
+		</footer>
