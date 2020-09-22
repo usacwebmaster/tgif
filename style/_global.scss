@@ -1,11 +1,26 @@
+@use 'colors';
+
 @use '../node_modules/typeface-montserrat';
 @use '../node_modules/typeface-open-sans';
+
+body {
+	margin: 0;
+}
 
 :root {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 500;
 }
 
-body {
-	margin: 0;
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Open Sans', sans-serif;
+}
+
+a {
+	color: colors.$green;
+	font-weight: bold;
+
+	&:hover:not(:focus) {
+		color: colors.$blue;
+	}
 }

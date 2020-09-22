@@ -5,12 +5,26 @@
 
 	<body>
 		<header>
-			<h1><img src=/img/TGIF.png alt="The Green Initiative Fund"></h1>
-			<nav>
+			<h1>
+				<a href=/>
+					<img src=/img/TGIF.png alt="The Green Initiative Fund">
+				</a>
+			</h1>
+
+			<nav class=site-nav>
 				<ul>
-					<%# TODO: Navigation system %>
 					<li><a href>About Us</a>
-					<li><a href>Apply for Funding</a>
+					<li><a tabindex=0 aria-current=page>Apply for Funding</a>
+						<ul>
+							<li><a tabindex=0>Funding Process</a>
+								<ul>
+									<li><a href>Testing</a>
+								</ul>
+							<li><a href aria-current=page>TGIF Main Fund Application</a>
+							<li><a href>TGIF Mini Fund Application</a>
+							<li><a href=https://google.com>Capital/Infrastructure Application</a>
+							<li><a href>Funding Deadline Calendar</a>
+						</ul>
 					<li><a href>Access Funding</a>
 					<li><a href>Funded Projects</a>
 				</ul>
