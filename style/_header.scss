@@ -17,36 +17,13 @@ header {
 }
 
 .site-nav {
-	line-height: 3;
-
 	display: flex;
-
-	> ul {
-		display: flex;
-
-		> li {
-			display: flex;
-
-			> a {
-				border: {
-					top: thick solid transparent;
-					bottom: thick solid transparent;
-				}
-
-				&::after {
-					margin: {
-						left: 1ex;
-						right: -1ex;
-					}
-				}
-			}
-		}
-	}
 
 	ul {
 		@extend %unlist;
 		margin: 0;
 
+		display: flex;
 		position: relative;
 
 		ul {
@@ -55,50 +32,53 @@ header {
 			position: absolute;
 			top: 100%;
 
+			background-color: inherit;
 			box-shadow: 0 1ex 1ex rgba(0, 0, 0, 0.1);
 
-			a::after {
-				position: absolute;
-				right: 1em;
+			li {
+				display: initial;
 			}
 
-			a[aria-current] {
-				text-decoration: underline;
-			}
-
-			ul {
-				top: 0;
-				left: 100%;
+			a {
+				border: none;
+				border-left: thick solid transparent;
 			}
 		}
 	}
 
-	li:focus-within {
-		background-color: colors.$lightblue;
+	li {
+		display: flex;
 
-		> a::after {
-			color: transparent;
-		}
+		&:focus-within {
+			background-color: colors.$lightblue;
 
-		> ul {
-			display: initial;
-			background-color: inherit;
+			a::after {
+				color: transparent;
+			}
+
+			ul {
+				display: initial;
+			}
 		}
 	}
 
 	a {
 		display: flex;
 		align-items: center;
-		padding: 0 1em;
+		padding: 1em;
 
-		position: relative;
+		border-top: thick solid transparent;
+		border-bottom: thick solid transparent;
 
 		&:not([href])::after {
 			content: '+';
+			margin-left: 1ex;
+			margin-right: -1ex;
 		}
 
 		&[aria-current] {
 			border-top-color: colors.$green;
+			border-left-color: colors.$green;
 		}
 	}
 }
