@@ -1,0 +1,75 @@
+@use 'colors';
+@use 'common';
+
+footer {
+	display: flex;
+
+	background-color: colors.$lightblue;
+
+	color: colors.$green;
+	font-size: smaller;
+
+	> * {
+		flex: 1;
+		position: relative;
+	}
+
+	ul {
+		@extend %unlist;
+	}
+
+	a {
+		font-weight: inherit;
+		text-decoration: none;
+	}
+}
+
+.foot-contact {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+
+	margin-bottom: 5em;
+
+	h1 {
+		grid-column: 1 / -1;
+		text-align: center;
+
+		margin-left: -6em;
+		margin-bottom: 0;
+	}
+
+	h2 {
+		font-size: inherit;
+		text-transform: uppercase;
+	}
+}
+
+.foot-oh {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	text-align: center;
+
+	::before {
+		content: '';
+
+		position: absolute;
+		top: (100% / 6);
+		bottom: (100% / 6);
+		left: 0;
+		width: 1px;
+
+		background-color: colors.$green;
+	}
+
+	h1 {
+		text-transform: uppercase;
+		margin: 0;
+	}
+
+	h2 {
+		font-weight: inherit;
+		margin-top: 0;
+	}
+}
