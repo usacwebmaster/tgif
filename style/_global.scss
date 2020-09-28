@@ -1,7 +1,9 @@
 @use '../node_modules/typeface-montserrat';
+@use '../node_modules/typeface-open-sans';
 
 :root {
-	font-family: 'Montserrat', 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
 }
 
 body {

@@ -9,7 +9,11 @@ module.exports = config => {
 		sourceMapEmbed: true,
 	})
 
-	config.addPassthroughCopy('img')
+	config.addPassthroughCopy({
+		img: true,
+		'node_modules/typeface-montserrat/files': 'img/files',
+		'node_modules/typeface-open-sans/files': 'img/files',
+	})
 
 	return {
 		dataTemplateEngine: false,
