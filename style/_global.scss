@@ -3,6 +3,11 @@
 @use '../node_modules/typeface-montserrat';
 @use '../node_modules/typeface-open-sans';
 
+::selection {
+	background-color: colors.$gold;
+	color: colors.$black;
+}
+
 :root {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 500;
