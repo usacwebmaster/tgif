@@ -3,16 +3,15 @@
 
 footer {
 	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+
+	padding-bottom: 5em;
 
 	background-color: colors.$lightblue;
 
 	color: colors.$green;
 	font-size: smaller;
-
-	> * {
-		flex: 1;
-		position: relative;
-	}
 
 	ul {
 		@extend %unlist;
@@ -27,14 +26,13 @@ footer {
 .foot-contact {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
-
-	margin-bottom: 5em;
+	gap: 0 3em;
 
 	h1 {
 		grid-column: 1 / -1;
 		text-align: center;
 
-		margin-left: -6em;
+		margin-left: -2em;
 		margin-bottom: 0;
 	}
 
@@ -51,17 +49,7 @@ footer {
 
 	text-align: center;
 
-	::before {
-		content: '';
-
-		position: absolute;
-		top: (100% / 6);
-		bottom: (100% / 6);
-		left: 0;
-		width: 1px;
-
-		background-color: colors.$green;
-	}
+	margin-top: 5em;
 
 	h1 {
 		text-transform: uppercase;
