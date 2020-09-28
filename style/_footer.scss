@@ -1,12 +1,15 @@
 @use 'colors';
 @use 'common';
 
+$section-spacing: 5em;
+
 footer {
 	display: flex;
 	justify-content: space-around;
 	flex-wrap: wrap;
 
-	padding-bottom: 5em;
+	margin-top: $section-spacing;
+	padding-bottom: $section-spacing;
 
 	background-color: colors.$lightblue;
 
@@ -49,7 +52,7 @@ footer {
 
 	text-align: center;
 
-	margin-top: 5em;
+	margin-top: $section-spacing;
 
 	h1 {
 		text-transform: uppercase;
