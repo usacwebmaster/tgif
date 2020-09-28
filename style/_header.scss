@@ -3,16 +3,13 @@
 
 header {
 	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
 
 	background-color: mintcream;
 
 	h1 {
-		flex: 1;
 		margin: 0;
-	}
-
-	a {
-		text-decoration: none;
 	}
 }
 
@@ -24,13 +21,15 @@ header {
 		margin: 0;
 
 		display: flex;
-		position: relative;
+		flex-wrap: wrap;
 
 		ul {
 			display: none;
 
 			position: absolute;
 			top: 100%;
+			min-width: 100%;
+			z-index: 1;
 
 			background-color: inherit;
 			box-shadow: 0 1ex 1ex rgba(0, 0, 0, 0.1);
@@ -40,20 +39,20 @@ header {
 			}
 
 			a {
-				border: none;
-				border-left: thick solid transparent;
+				border-width: 0 0 0 thick;
 			}
 		}
 	}
 
 	li {
 		display: flex;
+		position: relative;
 
 		&:focus-within {
 			background-color: colors.$lightblue;
 
-			a::after {
-				color: transparent;
+			a:not([href])::after {
+				content: '~';
 			}
 
 			ul {
@@ -67,8 +66,10 @@ header {
 		align-items: center;
 		padding: 1em;
 
-		border-top: thick solid transparent;
-		border-bottom: thick solid transparent;
+		border: solid transparent;
+		border-width: thick 0;
+
+		text-decoration: none;
 
 		&:not([href])::after {
 			content: '+';
