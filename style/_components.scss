@@ -17,3 +17,19 @@
 		box-shadow: 0 0.5ex 0.5ex rgba(0, 0, 0, 0.25) inset;
 	}
 }
+
+h1 {
+	counter-reset: heading;
+}
+
+h2 {
+	counter-increment: heading;
+}
+
+.counted::before {
+	content: counter(heading) '. ';
+}
+
+.checklist-tip {
+	list-style-type: circle;
+}
