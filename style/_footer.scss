@@ -2,13 +2,14 @@
 @use 'common';
 
 $section-spacing: 5em;
+$logo-stick-out: 36px;
 
 footer {
 	display: flex;
 	justify-content: space-around;
 	flex-wrap: wrap;
 
-	margin-top: $section-spacing;
+	margin-top: $logo-stick-out;
 	padding-bottom: $section-spacing;
 
 	background-color: colors.$lightblue;
@@ -34,9 +35,7 @@ footer {
 	h1 {
 		grid-column: 1 / -1;
 		text-align: center;
-
-		margin-left: -2em;
-		margin-bottom: 0;
+		margin: -$logo-stick-out 0 0 -40px;
 	}
 
 	h2 {
