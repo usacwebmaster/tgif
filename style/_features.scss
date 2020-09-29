@@ -1,0 +1,16 @@
+@use 'colors';
+@use 'layout';
+
+.feat-swoosh {
+	--extend: 100px;
+	--fill-in: calc((100vw - #{layout.$page-width}) / 2 + var(--extend));
+
+	$height: 720px;
+	background:
+		url('/img/swoosh.svg') top right var(--fill-in) / auto $height no-repeat,
+		linear-gradient(colors.$lightblue, colors.$lightblue) top right / calc(var(--fill-in) + 1px) no-repeat;
+
+	@media (min-width: layout.$page-break) {
+		--extend: -150px;
+	}
+}

@@ -4,7 +4,7 @@
 	<link rel=stylesheet href=/img/main.css>
 	<meta name=viewport content="width=device-width">
 
-	<body>
+	<body class="<%= (locals.features || []).map(f => `feat-${f}`).join(' ') %>">
 		<header>
 			<h1>
 				<a href=/>
