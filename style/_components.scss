@@ -1,4 +1,5 @@
 @use 'colors';
+@use 'layout';
 
 .button {
 	display: inline-block;
@@ -15,6 +16,16 @@
 
 	&:active {
 		box-shadow: 0 0.5ex 0.5ex rgba(0, 0, 0, 0.25) inset;
+	}
+}
+
+.banner {
+	display: block;
+	margin: 1rem auto -3rem;
+
+	@media (min-width: layout.$page-break) {
+		float: right;
+		margin: initial;
 	}
 }
 

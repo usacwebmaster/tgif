@@ -25,6 +25,10 @@ ul {
 	list-style-type: square;
 }
 
+img {
+	max-width: 100%;
+}
+
 address {
 	font-style: normal;
 }
@@ -34,5 +38,6 @@ main {
 
 	h1 {
 		font-size: xx-large;
+		padding-top: 2rem;
 	}
 }
