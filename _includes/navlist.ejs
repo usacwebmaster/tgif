@@ -1,0 +1,15 @@
+<ul>
+	<% for (const item of Object.values(children)) { %>
+		<li><a tabindex=0
+				<% if (item.data.page.url) { %>
+					href="<%= item.data.page.url %>"
+				<% } %>
+
+				<% if (item.contains(page)) { %>
+					aria-current=page
+				<% } %>
+			><%= item.data.title %></a>
+
+		<%- include('/navlist', item) %>
+	<% } %>
+</ul>

@@ -1,4 +1,5 @@
 const sassPlugin = require('./plugins/sass')
+const navPlugin = require('./plugins/nav')
 
 module.exports = config => {
 	config.addWatchTarget('style')
@@ -8,6 +9,8 @@ module.exports = config => {
 		sourceMap: true,
 		sourceMapEmbed: true,
 	})
+
+	config.addPlugin(navPlugin)
 
 	config.addPassthroughCopy({
 		img: true,
