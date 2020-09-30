@@ -20,8 +20,8 @@
 }
 
 .banner {
-	display: block;
-	margin: 1rem auto -3rem;
+	margin-top: 1rem;
+	margin-bottom: -3rem;
 
 	@media (min-width: layout.$page-break) {
 		float: right;
