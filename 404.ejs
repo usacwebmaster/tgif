@@ -1,0 +1,15 @@
+---
+title: Page Not Found
+permalink: 404.html
+eleventyExcludeFromCollections: true
+---
+
+<h1><%= title %></h1>
+
+<p>The page you're looking for doesn't exist, or you don't have permission to see it.
+<p>Perhaps it was lost in the move from the <a href=/index.php>old TGIF website</a>, in which case you can <a href=mailto:usacwebmaster@asucla.ucla.edu>contact the webmaster</a>.
+<p>Or, try <a id=search-link href="https://duckduckgo.com/?q=site%3Atgif.ucla.edu">searching for it</a>.</p>
+
+<script>
+document.getElementById('search-link').href += location.pathname.replace(/\W+/g, '+')
+</script>
