@@ -2,7 +2,10 @@
 @use 'common';
 
 $section-spacing: 5em;
-$logo-stick-out: 36px;
+
+$logo-height: 5rem;
+$logo-stick-out: 2.5rem;
+$logo-align-offset: 3rem;
 
 footer {
 	display: flex;
@@ -32,10 +35,14 @@ footer {
 	grid-template-columns: 1fr 1fr;
 	gap: 0 3em;
 
+	img {
+		max-height: $logo-height;
+	}
+
 	h1 {
 		grid-column: 1 / -1;
 		text-align: center;
-		margin: -$logo-stick-out 0 0 -40px;
+		margin: -$logo-stick-out 0 0 (-$logo-align-offset);
 	}
 
 	h2 {
