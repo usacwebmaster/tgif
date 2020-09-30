@@ -29,6 +29,35 @@
 	}
 }
 
+.showcase {
+	display: grid;
+	grid-template-columns: 1fr;
+
+	@media (min-width: layout.$page-break) {
+		grid-template-columns: 1fr 1fr;
+	}
+
+	background-color: colors.$lightgreen;
+
+	&:nth-of-type(even) {
+		background-color: colors.$lightblue;
+
+		@media (min-width: layout.$page-break) {
+			img {
+				grid-area: 1 / 2;
+			}
+		}
+	}
+
+	img {
+		width: 100%;
+	}
+
+	div {
+		margin: 0 1em;
+	}
+}
+
 h1 {
 	counter-reset: heading;
 }
