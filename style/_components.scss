@@ -1,4 +1,5 @@
 @use 'colors';
+@use 'common';
 @use 'layout';
 
 .button {
@@ -30,12 +31,7 @@
 }
 
 .showcase {
-	display: grid;
-	grid-template-columns: 1fr;
-
-	@media (min-width: layout.$page-break) {
-		grid-template-columns: 1fr 1fr;
-	}
+	@extend %twocol;
 
 	background-color: colors.$lightgreen;
 

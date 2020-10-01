@@ -1,4 +1,15 @@
+@use 'layout';
+
 %unlist {
 	list-style: none;
 	padding: 0;
+}
+
+%twocol {
+	display: grid;
+	grid-template-columns: 1fr;
+
+	@media (min-width: layout.$page-break) {
+		grid-template-columns: 1fr 1fr;
+	}
 }

@@ -4,15 +4,13 @@
 $section-spacing: 5em;
 
 $logo-height: 5rem;
-$logo-stick-out: 2.5rem;
+$logo-peek-offset: 2.5rem;
 $logo-align-offset: 3rem;
 
 footer {
-	display: flex;
-	justify-content: space-around;
-	flex-wrap: wrap;
+	@extend %twocol;
 
-	margin-top: $logo-stick-out;
+	margin-top: $logo-peek-offset;
 	padding-bottom: $section-spacing;
 
 	background-color: colors.$lightblue;
@@ -35,13 +33,15 @@ footer {
 	grid-template-columns: 1fr 1fr;
 	gap: 0 3em;
 
+	margin: 0 auto;
+
 	img {
 		max-height: $logo-height;
 	}
 
 	h1 {
 		grid-column: 1 / -1;
-		margin: -$logo-stick-out 0 0 (-$logo-align-offset);
+		margin: -$logo-peek-offset 0 0 (-$logo-align-offset);
 	}
 
 	h2 {
