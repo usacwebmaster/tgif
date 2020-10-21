@@ -32,16 +32,11 @@
 
 .showcase {
 	@extend %twocol;
+	@extend %stripe-box;
 
-	background-color: colors.$lightgreen;
-
-	&:nth-of-type(even) {
-		background-color: colors.$lightblue;
-
-		@media (min-width: layout.$page-break) {
-			img {
-				grid-area: 1 / 2;
-			}
+	@media (min-width: layout.$page-break) {
+		&:nth-of-type(even) img {
+			grid-area: 1 / 2;
 		}
 	}
 
@@ -51,6 +46,19 @@
 
 	div {
 		margin: 0 1em;
+	}
+}
+
+.person {
+	@extend %qrtcol;
+	@extend %stripe-box;
+
+	hgroup > * {
+		margin: 0;
+	}
+
+	div {
+		margin: 1em 1em 0;
 	}
 }
 

@@ -1,3 +1,4 @@
+@use 'colors';
 @use 'layout';
 
 %unlist {
@@ -11,5 +12,25 @@
 
 	@media (min-width: layout.$page-break) {
 		grid-template-columns: 1fr 1fr;
+	}
+}
+
+%qrtcol {
+	@extend %twocol;
+
+	@media (min-width: layout.$page-break * 0.7) {
+		grid-template-columns: 1fr 1fr;
+	}
+
+	@media (min-width: layout.$page-break) {
+		grid-template-columns: 1fr 3fr;
+	}
+}
+
+%stripe-box {
+	background-color: colors.$lightgreen;
+
+	&:nth-of-type(even) {
+		background-color: colors.$lightblue;
 	}
 }
