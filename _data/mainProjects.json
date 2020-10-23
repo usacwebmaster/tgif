@@ -1,0 +1,904 @@
+[
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "Office of Sustainability",
+		"name": "Social Media Interns",
+		"desc": "In these uncertain times amid COVID-19, all learning has moved online, students have moved home, and most staff are working remotely from home. Though the campus community is not on campus, the UCLA Office of Sustainability is looking to engage with the campus community via online media to provide content that will entertain, educate, and help viewers practice sustainability from wherever they are in the world. The Office of Sustainability is looking to grow and expand as the world moves towards digital content and interactions to prevent the spread of COVID-19.",
+		"amt": 2400
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "SAR",
+		"name": "ARMS: Applied Research Management Systems",
+		"desc": "The ARMS team intends to create a singular, accessible space for the UCLA community to share, analyze, and track sustainability research conducted by on-campus student groups and programs including Sustainability Action Research, the Sustainable LA Grand Challenge Undergraduate Research Scholars program, Student Organization projects, internships, and other client projects on campus. They are conducting an online survey aimed at past student researchers to help understand how past research was conducted and any challenges experienced. The feedback from this survey will help them draft recommendations and best practices for creating a future sustainability research database. They hope to create a resource for current and future students to build on each other's work and create a larger legacy of student-led sustainability.",
+		"amt": 200
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "Sage Hill",
+		"name": "Outdoor Lab",
+		"desc": "The Sage Hill Practicum is a year-long project led by five environmental science seniors: Arlene Tieu, Maya Canapary, Maggie Elgin, Isabel Gandarilla, and Ziyaad Qureshi. They aim to help UCLA develop a strategic plan for outdoor, nature-based teaching and undergraduate research at Sage Hill—a unique plot of land in the northwest corner of campus that represents the last remaining patch of native habitat in all of West Los Angeles south of Sunset Boulevard. As part of the strategic plan, they are developing a list of needed improvements in the area. The top priority improvement is the removal of a large, old fiberglass tank (approx. 35ft. long, 7ft. diameter) that mars the area and impedes restoration efforts.",
+		"amt": 5500
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "LARC",
+		"name": "Spring Public Engagement Initiative",
+		"desc": "This two-part project aims to bring people together and provide resources for creating a climate resilient LA. Part 1: Organize an online public forum on climate resilient communities to connect climate practitioners and policymakers, along with the future generation of climate leaders, with cutting edge research and best practices in the field. This June event offers an opportunity to convene a broad range of public voices working on shifting power to communities and increasing community capacity. Open to the public, this event provides a valuable online educational experience and opportunities for virtual networking with the region’s climate leaders. Part 2: Maintain the 2020 Legislative Tracker on climate change legislation as a resource for adaptation professionals and climate activists across California. This includes intensive research and subsequent outreach to stakeholders concerning legislation.",
+		"amt": 4845
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "Grand Challenges LA: Undergrad Research Scholars Program",
+		"name": "Urban Heat Island Mitigation Strategies in LA",
+		"desc": "Their undergraduate-initiated and led research project focuses on urban heat, specifically the Cool Streets program run by the City of Los Angeles. This pilot program has been implemented in a handful of neighborhoods that experience intense heat, with the intention of testing the benefits of light gray pavements that reflect sunlight rather than absorbing it. They aim to evaluate the effectiveness of this program and make recommendations on how the city should move forward with cooling strategies.",
+		"amt": 250
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "SAR Waste Diversion",
+		"name": "Focus Group Incentives",
+		"desc": "Their project works to create a Productions Guide for the UCLA Theatre and Film School to establish a tangible document for sustainability best practices. This will be essential as no such document exists, and from their recent observations and interviews, there is a large discrepancy between stated practices and those currently in use. That is why it is essential they establish future best practices in their Productions Guide through in-depth interviews with students in their focus group. However, current outreach has been met with minimal success especially mitigated by current circumstances, and they believe incentivizing such involvement is critical for participation.",
+		"amt": 1000
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "General Representative 1",
+		"name": "COVID-19 Relief Fund",
+		"desc": "This COVID-19 Relief Fund subsidizes and minimizes the loss of income and financial insecurities students are facing. With the increasing number of students that are no longer able to work or have had parents that help sustain them also being out of work, there is an incredible need for students to receive some sort of funding. Furthermore, while the federal and various state governments have been providing some sort of financial support, a lot of students are not eligible due to being legally classified as dependents. Gen Rep 1 aims to reach as many students as possible while also ensuring the amount provided to students is enough for them to be useful.",
+		"amt": 30000
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "SAR",
+		"name": "Lawn Management",
+		"desc": "The lawn management team is researching the issue of composting benefits as a sustainable and efficient alternative for lawn management practices in order to demonstrate to Facilities Management that chemical fertilizers are not necessarily the best choice. The team is requesting funds to be able to pay for soil lab tests and associated facility use. The lab tests are crucial for the data set as it will show whether or not the transition from compost improves soil moisture retention, organic nutrient intake (NPK), and microbial activity among other necessities for maintaining green lawns.",
+		"amt": 725
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "Bruin Home Solutions/Bruin Beekeeping",
+		"name": "Bruin Apiary",
+		"desc": "The Bruin Apiary Project is led by a team of students, staff, faculty, and professional beekeepers working together to bring honey bee hives to the UCLA campus. Major stakeholders include UCLA Facilities, UC Agricultural and Natural Resources (UCANR), California Master Beekeeper Program (CAMBP), and UCLA Extension Landscape Architecture and Horticulture Program in addition to multiple student clubs. Currently, they are in Phase I of the project, where they 1) design the physical implementation of the beehives, 2) develop an apiary management plan and oversight committee structure, 3) develop educational/research programs/partnerships centered around the hives, and 4) collaborate with CAMBP/UCANR to digitize the Apprentice Level Beekeeper certification course to serve as a reliable training tool for UCLA students into perpetuity. They move into Phase II (building of beehive and signed agreements) when Master Proposal is finalized by UCLA Admin (projected to be Fall) and permits are finalized.",
+		"amt": 24000
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "UCLA Housing",
+		"name": "Strategic Plan: DEI & Sustainability Workshop",
+		"desc": "UCLA Housing held a virtual workshop during Week 10 to engage students on the UCLA Sustainability Strategic Plan that is currently being developed. This workshop acted as a focus group to help ascertain students' perspectives on the intersection between sustainability and Diversity, Equity, & Inclusion (DEI) initiatives at UCLA. This focus group helped inform the development of DEI initiatives within sustainability in the Strategic Plan.",
+		"amt": 700
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "TGIF",
+		"name": "Committee Honorarium & CHESC Attendance",
+		"desc": "The California Higher Education Sustainability Conference brings together California Community Colleges, California State University, University of California and representatives of private and independent colleges in California to share best practices in campus sustainability efforts. This conference focuses on the sharing of best practices and lessons learned from the people on the front lines of implementing sustainability efforts in California higher education. The TGIF Committee is requesting funds for their ambassadors to attend the virtual conference.",
+		"amt": 10000
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "CounterForce Lab",
+		"name": "Wildlife Amongst Us",
+		"desc": "In conducting extensive research for their Biophilia Treehouse project on the local bird and plant life at UCLA campus, the knowledge CounterForce Lab gained profoundly transformed their understanding of the local environment with which they engage. They want to share their knowledge with the wider UCLA community and the public at large. CounterForce Lab, as an interdisciplinary team of designers, artists, and scientists, envision creating an interactive website to tell the story of the many species of local plants and animals that make UCLA their home. This online platform includes video interviews, animations, data visualizations, interactive maps, charts, timelines, and wildlife documentation. Ultimately, they want to use the power of design to illuminate local wildlife vitality, as well as the importance of habitat connectivity both at UCLA and LA County.",
+		"amt": 10250
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "Bruin Home Solutions",
+		"name": "LEED Lab",
+		"desc": "LEED Lab is a joint independent study and extracurricular course that creates an interdisciplinary project-based experience. This course allows students from various majors to work together to evaluate an existing building on the UCLA campus for LEED certification. Students are able to work directly with Facilities Management, fostering a meaningful collaboration that is mutually beneficial from an academic and campus operations standpoint. The course has an applied learning portion on campus and a remote research portion.",
+		"amt": 25000
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "Facilities",
+		"name": "Campus Hydration Stations",
+		"desc": "The Facilities Commission wants to invest in more campus hydration stations. The stations are filtered, clean, and chilled for students’ easy convenience. This reduces the usage of bottled water and gives students a financially accessible alternative.",
+		"amt": 30000
+	},
+	{
+		"quarter": "Spring",
+		"year": 2020,
+		"org": "TGIF",
+		"name": "TGIF BLM Support",
+		"desc": "TGIF takes this moment of national grieving and fury as an opportunity to reflect internally as an organization as to how we can better push and aid an agenda of anti-racism in the work that we do. Black Lives Matter.",
+		"amt": 45000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Hip Hop Congress",
+		"name": "Fashion Show: Breaking the Chain",
+		"desc": "Hip Hop Congress’s annual fashion show is an avant-garde display of both the innovative fashion of upcoming designers and the raw talent of the music industry’s fresh, new faces. Through the careful curation of artistry and talent by HHC’s fashion show committee, a show that highlights and centers the creatives of this industry is conceived. This show gives exposure and visibility to the newest, up and coming artists of the music industry, fashion, modeling, and even marketing and advertising.",
+		"amt": 5000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Cultural Affairs Commission",
+		"name": "Hip Hop Explosion",
+		"desc": "Hip Hop Congress of the Cultural Affairs Commission will host its annual Hip Hop Explosion Concert to conclude their annual Hip Hop Appreciation Month programming. Their month of programming plays an integral role in educating while entertaining the general population of UCLA's campus during Black History month, starting with a Kickoff event, a panel, film screening, Workshop, Fashion Show, and of course, the Explosion Concert. The theme this year is TRAP (To Rise And Prosper), which encompasses the true essence of how they aim to inspire and influence UCLA’s campus.",
+		"amt": 10000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "American Indian Student Association",
+		"name": "21st Annual AISA Youth Conference and Basketball Tournament",
+		"desc": "AISA’s annual youth conference and basketball tournament hosts Indigenous middle and high school students from numerous reservations and schools for a three day long event which includes a basketball tournament as well as a day long conference. The basketball tournament is held in an effort to inspire and uplift students. The conference is comprised of workshops focusing on wellness, education, art, and culture which are led by Indigenous alumni, students, and community members.",
+		"amt": 4000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Ecology, Economy, Equity (E3)",
+		"name": "Earth Month 2020",
+		"desc": "E3 is celebrating the 50th anniversary of Earth Month with 3 major events: the Free Produce Fair, Speaker Panel, and their 17th annual Earth Day Fair. Through these events, they focus on the three main issues that spurred the first Earth Day 50 years ago: biodiversity, water pollution, air quality—as well as food insecurity. The Free Produce fair works to combat food insecurity on campus and partners with CalFresh enrollment in order to maximize student impact. Their speaker panel and Earth Day Fair events showcase all the sustainability projects and improvements students and organizations at UCLA are working on and also work to spread awareness of the importance of sustainability to the broader campus community.",
+		"amt": 6000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "American Society of Civil Engineers",
+		"name": "Navajo Water Project",
+		"desc": "The Navajo Water Project is a community service project that provides families on the Navajo Reservation in Northern Arizona access to main water and power lines. Their team of students spend the school year designing and installing an off-grid, solar-powered, pressurized water system in an effort to make accessing water more convenient for the residents.",
+		"amt": 6306
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Coastalong Festival",
+		"name": "Coastalong Music Festival & Sustainability Fair",
+		"desc": "Coastalong is UCLA’s only bike-powered, student-produced festival, hosted at Sunset Canyon Recreation Center. Coastalong’s purpose is to spread sustainability in a unique and engaging way. They decrease reliance on non-renewable energy sources by producing energy for our speakers via pedaling stationary bike generators. They also spread sustainable practices at their Sustainability Fair, which hosts eco-friendly student organizations, hands-on projects like solar-powered lights, and creative art projects. Their hope is for attendees to learn about renewable energy, sustainable practices, general environmental awareness, and unite in an important cause.",
+		"amt": 10000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Latinxs/Chicanxs for Community Medicine",
+		"name": "50 Años de Esfuerzo: Cultivating the Minds of Tomorrow’s Healthcare Advocates",
+		"desc": "LCCM is hosting a pre-health conference at the UCLA Court of Sciences for high school, undergraduate, and community college students so that they can develop an interest in pre-health professions or at least become aware of the different careers in the medical and health fields. They bring in health professionals to talk about their experiences in their respective careers, how their experiences shaped them, and what they accomplish or have undergone through to get where they are today. Aside from health workshops, they incorporate a fitness workshop, undergraduate and graduate financial aid, campus life workshops, and a summer research opportunities panel.",
+		"amt": 3100
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "CounterForce Lab",
+		"name": "Pando Days",
+		"desc": "In partnership with Pando Populus and LA County, UCLA's CounterForce Lab seeks to broaden the narratives of our relationship to ecosystems. Their goal, in collaboration with biologists, architects, and designers, is to build a lightweight installation that serves as both a viable habitat for birds and a temple to biodiversity. The natural inclinations of the birds are the primary shaping force of the design—it will make for unanticipated spatial outcomes that will be commensurate with avian physicality and behavior. Students are invited to honor existing and extinct biodiversity in their temple in an effort to foster interspecies relationships. The conceptual phase of the project is showcased at Pando Days! Festival, which brings together ten art/design schools across the region to foster creative responses to the first ever LA County Sustainability Plan.",
+		"amt": 10000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Renewable Energy Association",
+		"name": "Renewable Natural Gas Biogas Project",
+		"desc": "The mission of the Renewable Natural Gas (RNG) project within the Renewable Energy Association is to reduce and redirect UCLA’s waste into the energy stream. This year, three RNG teams—Waste Processing (WP), Biogas, and Compost—developed procedures to conduct campus waste audits, test the energy efficiency of a residential biogas digester, and measure the effectiveness of compost as a fertilizer, respectively. Since the stay-at-home orders, their teams developed remote projects that expand on their existing work. These initiatives use ArcGIS to spatially analyze available and simulated campus waste, energy, and edaphic data. WP members geotag and map UCLA’s Victor Stanley waste bins to analyze the accessibility of campus waste streams, outcomes of waste diversion scenarios, and changes in waste transportation if diverted to the biodigester.",
+		"amt": 4300
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "ASUCLA Facilities Maintenance",
+		"name": "North Campus Water Bottle Refill Station",
+		"desc": "By installing a water bottle refill station at North Campus Student Center, this project reduces the amount of plastic waste on campus by promoting the use of refillable water bottles. It also makes safe, high-quality water more free and accessible for students. Furthermore, water bottle refill stations reduce the amount of energy waste, resulting in a smaller carbon footprint.",
+		"amt": 1410
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Renewable Energy Association",
+		"name": "Waste Awareness Week",
+		"desc": "Waste Awareness Week is a campus-wide week-long sustainability event designed to educate students about waste mismanagement and help UCLA reach its Zero Waste by 2020 goal. Events include awareness workshops to address the global impact of waste, how waste management currently and will be working on UCLA’s campus, practical choices students can make to reduce their individual waste footprint, and DIY workshops.",
+		"amt": 6450
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Bruin Dine",
+		"name": "Internship Program",
+		"desc": "Bruin Dine is a student-run organization that curtails food waste and food insecurity on campus through weekly recovery events. Because Bruin Dine caters to students’ food security, it is imperative to have dedicated interns and directors who ensure the quality and consistency of their recovery events. This internship is meant to set precedent in teaching the next generation of students on how to operate, manage, and successfully run Bruin Dine. The stipend serves as an incentive and a contract between the students and organization in which the compensated staff are expected to commit to weekly events and expansion plans.",
+		"amt": 8400
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Supermileage Vehicle at UCLA",
+		"name": "Winter Subsystem Projects",
+		"desc": "Supermileage Electric Vehicle is a project designed and founded by UCLA students. The Supermileage Vehicle team strives to make the vehicle as fuel efficient as possible, while at the same time, using sustainable practices. Additionally, because it is an electric vehicle and not gas powered, their project promotes outside of the box thinking within the sustainability space. Their electric vehicle directly addresses the issue of automobile carbon pollution, which aligns with UCLA’s goal of attaining carbon neutrality by 2025.",
+		"amt": 6000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Asian Pacific Coalition",
+		"name": "1st Southeast Asian Students for OrgaNizing (SEASON) Conference",
+		"desc": "The 1st annual Southeast Asian Students for OrgaNizing Conference (SEASON) is a 3-day and 2-night conference at UCLA with various advocacy training workshops, keynote speakers, and coalition building activities with the goal of providing a safe space for Southeast Asian students and allies across the U.S. to strategize campus-based actions to effectively advocate for their community. The theme of this year's SEASON was \"Rising as One\" as they considered what it meant to be part of such a diverse Southeast Asian community, showing intracommunity solidarity on a host of social, political, and ecological issues affecting them today.",
+		"amt": 4400
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Bruin Racing Baja SAE",
+		"name": "Electronically Controlled Transmission",
+		"desc": "Bruin Racing Baja SAE is a student engineering organization which functions as a small manufacturing firm whose task is to design, fabricate, market, and race an off-road vehicle prototype that will be evaluated from a variety of manufacturing angles. With the help of TGIF funding, they work to build a new Electronically Controlled Transmission, making it lighter with more efficient motors to further increase fuel efficiency.",
+		"amt": 3000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Bruin Racing",
+		"name": "Formula Car Ethanol Conversion",
+		"desc": "Bruin Racing Formula SAE is a competition that challenges students across the globe to design, assemble, test, and race a prototype open-wheel vehicle. Being primarily a training organization for engineers, their goal is to impress upon engineers that environmental impact should always be considered when designing and building. With their research project towards converting one of our old race cars to run on ethanol (produced from environmentally friendly corn), they hope to eliminate the carbon emissions from running their car on gasoline.",
+		"amt": 6000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Bruin Home Solutions",
+		"name": "Restroom Audits",
+		"desc": "In Fall 2019, BHS received TGIF funds to rebuild water audit program from the ground up and built three “Pump-and- Dump” apparatuses to collect water efficiency data on toilets and urinals and configure the IMMOTION passive infrared sensors to measure bathroom usage rates. They also developed a comprehensive SOP that details every part of the auditing process. They want to continue improving on this project after recognizing that their SOP and general audit workflow has become much more complex and error-prone.",
+		"amt": 4400
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Emma Stanfield",
+		"name": "Educating the UCLA Community on the Environmental Benefits of Microbial Ecology",
+		"desc": "This project began with an internship at NASA’s Jet Propulsion Laboratory (JPL) with the Planetary Protection team, which regulates the protection of Earth from extraterrestrial forms of life. Their role in this team was to complete high throughput identification of spacecraft associated microbes from two previous NASA missions. Using innovative technologies and bioinformatics, they systematically identified over 500 samples, many of which were previously unidentified species of bacteria, and published a scientific paper with the new microorganisms that they taxonomically identified. Emma hoped to share their findings with other scientists at the International Society for Microbial Ecology (ISME) conference in Cape Town, the largest not-for-profit international meeting addressing topics in microbial ecology. Information gained from the ISME18 conference will be presented in an educational talk to the UCLA community about the sustainable application of microbial ecology.",
+		"amt": 3500
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "E3 Fair Trade Campaign",
+		"name": "2020 National Fair Trade Conference",
+		"desc": "The National Fair Trade Conference gives students the opportunity to learn from experienced campaigners and social justice advocates, as well as network with other students and faculty from across the country who are engaged in similar work on their own campuses. Not only do they gain insights into how to improve their advocacy for Fair Trade within the UCLA community, but the conference allows them to build professional connections and celebrate their achievement in making UCLA the second largest Fair Trade university in the US.",
+		"amt": 1400
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Bruin Home Solutions",
+		"name": "EV Volkswagen Conversion",
+		"desc": "Bruin Home Solutions' EV Conversion project aims to convert a 1974 Volkswagen Super Beetle from gas to electric power. They replace the car's engine with a battery and motor. After the car is running, they create a wiring system for the cars auxiliary electronics (i.e. windshield wipers, headlights, etc.) and replace part of the dashboard with a touch screen display to control the car's electronics. Their final goal is to make the finished car street legal with the DMV.",
+		"amt": 1257
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Carbon Neutrality Initiative",
+		"name": "CHESC Attendance",
+		"desc": "In November 2013, President Janet Napolitano announced the Carbon Neutrality Initiative (CNI) which commits the entire UC system to emitting net zero greenhouse gas emissions from its buildings and vehicle fleet by 2025. Carbon Neutrality Fellows are tasked with promoting the initiative on campus and educating students on how to reduce their daily energy consumption. By attending the California Higher Education Sustainability Conference (CHESC), they hope to learn about cutting-edge research, as well as case studies with proven successes in curriculum development, operational programs, and community outreach strategies.",
+		"amt": 2000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "Patagonia Preservation Team",
+		"name": "IoES Students Restore Native Ecology in Patagonia",
+		"desc": "The Patagonia Preservation Team’s goal is to identify and map the extent to which invasive willow trees contribute to environmental degradation along the Limay River in Northwestern Patagonia. Their research team hopes to travel to Patagonia to work closely with local scientists, field experts, and fishing guides to collect ecological data and produce tailored solutions for the removal of non-native willows. The Limay River houses over 40% of all ecotourism in Patagonia, a region commonly known as the 8th wonder of the world.",
+		"amt": 8200
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "LA Hacks",
+		"name": "2020 Hackathon",
+		"desc": "LA Hacks is a free annual student-run hackathon event. They bring together over 1,000 university students and company representatives for three days at UCLA's Pauley Pavilion where teams have 36 hours to build software and hardware solutions for a variety of global issues. In between planning and building, attendees have access to guest company panelists, LA Hacks freebies and food, technical workshops, and social mixers with other students from around the world. Their organizing team works year-round to foster an inclusive space unlike any other, open to all backgrounds and experience levels and filled with UCLA optimism. Their “Lighting the Way” theme provides three problem tracks for their attendants to solve: Under Construction (Like Always), Trending Now, and Code Green. This hackathon welcomes everyone to develop both their own skills and new products so that they can create a positive impact on their community.",
+		"amt": 2000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "USAC Financial Supports Commission & Academic Affairs Commission",
+		"name": "iClicker Rental Program",
+		"desc": "This project purchases iClickers to lend out to students free of cost through the instructional media laboratory and USAC's joint iClicker rental library through both FSC and AAC. iClickers are currently required by many professors to track student attendance in classes, but they cost $54 each. Through this program, students who cannot afford iClickers are able to rent them free of charge for a quarter and return it at the end. This alleviates financial burdens on students who are already struggling to pay for their education.",
+		"amt": 6000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2020,
+		"org": "FSC",
+		"name": "Womxns Leadership Conference",
+		"desc": "The UC Womxn’s Leadership Conference (UCWLC) is an annual conference that educates, inspires, and empowers womxn and allies from across the UC system through an interactive day long experience. It is established by a coalition of student leaders at UCLA who recognize the significant barriers faced by womxn in student leadership and in the professional world. They strive to create a network of strong and confident UC students, alumni, and community members. They also aim to share the narratives of female leaders from this generation to inspire the next and recognize the realities of a world far from achieving gender equity and commit to amplifying the voices of our most vulnerable: women of color, queer and trans women, and survivors of sexual violence/sexual harassment.",
+		"amt": 3150
+	},
+	{
+		"quarter": "Fall",
+		"year": 2019,
+		"org": "Carbon Neutrality Initiative",
+		"name": "Green Builds Expo",
+		"desc": "In November 2013, President Janet Napolitano announced the Carbon Neutrality Initiative (CNI), which commits the entire UC to emitting net zero greenhouse gases from its buildings and vehicle fleet by 2025. To meet this goal, CNI fellows attend the largest green building conference in the world taking place in Atlanta, Georgia. This allows them to build a network of professionals that can support CNI’s green-building projects on campus and learn from experts on what it means to have a sustainable, carbon neutral building stock. Green Build overall offers a model vision of sustainable buildings that they could bring back to campus to use in their own CNI projects.",
+		"amt": 3600
+	},
+	{
+		"quarter": "Fall",
+		"year": 2019,
+		"org": "Carbon Neutrality Initiative",
+		"name": "Ambassadors Program",
+		"desc": "The CNI Ambassadors Program, a two-quarter long program that immerses students in the UC’s ambitious climate initiative, recruits six ambassadors who are trained to communicate the CNI and UCLA’s general sustainability goals through an interactive curriculum. The ambassadors learn the science behind climate acceleration; how it unjustly punishes the most vulnerable populations around the world; UC's proposed solutions; engaging storying telling, public speaking, and communication strategies; and project management and social behavioral change skills. They also have the opportunity to attend the California Higher Education Sustainability Conference (CHESC).",
+		"amt": 8400
+	},
+	{
+		"quarter": "Fall",
+		"year": 2019,
+		"org": "Zero Waste",
+		"name": "Ambassadors Program",
+		"desc": "In 2007, the UC System announced a new initiative in the Sustainable Practices Policy to achieve Zero Waste, committing to reduce waste generation and divert at least 90% of municipal solid waste from landfill. The ZW Ambassadors Program, a two-quarter long program immerses a select number of UCLA students in the initiative to research, promote, and engage the UCLA community to reduce individual and overall waste generation. Ambassadors are trained to communicate UCLA’s general sustainability and Zero Waste goals through an interactive curriculum. The curriculum includes sessions from the Office of Sustainability and a tour of on-campus sustainable development, presentation and event guidance. It also promotes other sustainability initiatives interconnected with climate change. The goal of this program is to foster knowledge of the Zero Waste Ambassadors to individual students who can serve as change agents to UCLA’s sustainability goals.",
+		"amt": 8400
+	},
+	{
+		"quarter": "Fall",
+		"year": 2019,
+		"org": "Design Create Solar",
+		"name": "Smart Solar Generator",
+		"desc": "Their projects plans to develop and produce smart solar generators, which can be used to charge devices (phones, laptops, etc.). The goal is to let people who are working outside to continue to do so without interruptions due to a discharged battery. The solar panels tracks the sun to increase efficiency and let the system be used multiple times.",
+		"amt": 900
+	},
+	{
+		"quarter": "Fall",
+		"year": 2019,
+		"org": "Design Create Solar",
+		"name": "Solar Roof",
+		"desc": "Their project aims to develop a solar roof for Jordan’s poorest refugee camp: Jerash Refugee Camp. This solar roof provides an environmentally friendly solution to the energy crisis that is occurring in this refugee camp, thermal insulation and soundproof features that makes homes inhabitable during the winter and maintains people's privacy, and a source of energy for homeowners who cannot pay their electricity bills due to extreme economic hardships.",
+		"amt": 10000
+	},
+	{
+		"quarter": "Fall",
+		"year": 2019,
+		"org": "Bruin Home Solutions",
+		"name": "LEED",
+		"amt": 5000
+	},
+	{
+		"quarter": "Fall",
+		"year": 2019,
+		"org": "Bruin Home Solutions",
+		"name": "Water & Energy Audits",
+		"desc": "BHS is expanding their water audit program and beginning the light audit program. With the help of TGIF funds, they plan to shift to ultrasonic flowmeters, yielding superb accuracy. They also had a strong need for occupancy sensors to get an accurate measure of water usage rates in bathrooms. In the spirit of collaboration, they are committed to sharing the sensors with Facilities Management and other sustainability clubs.",
+		"amt": 8200
+	},
+	{
+		"quarter": "Fall",
+		"year": 2019,
+		"org": "Bruin Home Solutions",
+		"name": "Hydroponics",
+		"desc": "The Hydroponics Project is a research initiative to study urban food production that uses fewer resources than conventional farming. BHS designed, installed, and is now operating an automated hydroponics vertical farm on the patio of the Luskin School of Public Affairs. Their mission is to create a sustainable hydroponics system that can be easily replicable and increase the availability of nutritious vegetables for students and bolster food security on campus. For research, the Hydroponics Team installed sensors for data collection to provide direct feedback on water efficiency and enable BHS to monitor and control the system in real-time.",
+		"amt": 500
+	},
+	{
+		"quarter": "Fall",
+		"year": 2019,
+		"org": "IEEE & Theta Tau",
+		"name": "Idea Hacks",
+		"desc": "IDEA Hacks is the largest hardware-focused hackathon on the West Coast and the only one of its kind at UCLA. The purpose of IDEA Hacks is to help students develop hardware projects by providing them with mentorship, parts, and workshops, all free of charge. This year’s hackathon theme was “College Lifestyle”, which was about finding ways to enhance the lifestyle of college students. Their goal was to encourage students to create projects that are environmentally conscious and help solve problems that college students face today.",
+		"amt": 3750
+	},
+	{
+		"quarter": "Fall",
+		"year": 2019,
+		"org": "Bruin Home Solutions",
+		"name": "EV Conversion",
+		"desc": "To provide practical education for the rapidly growing Electric Vehicle (EV) industry and promote UCLA sustainability, BHS is working on two projects: the VW Beetle and electric skateboards (E-Boards). The goal of the E-Boards project is to implement elements of mechanical and electrical engineering to build an innovative transportation method that runs on clean energy i.e. electric skateboards. They are researching and developing methods to transform any type of skateboard into an electric vehicle, from the programming of the electric speed controller to integrating the correct kind of drivetrain onto the board. Once their prototype is built and fully functional, E-Boards reach out to the UCLA community to alter anyone's skateboard into an electric vehicle to spread the use of sustainable transportation. Learning these hands-on engineering skills opens doors for a variety of projects that involve working with batteries, programming, and mechanical design.",
+		"amt": 3000
+	},
+	{
+		"quarter": "Fall",
+		"year": 2019,
+		"org": "TGIF",
+		"name": "Fall Marketing and Outreach",
+		"desc": "TGIF aims to be accessible to all UCLA students and organizations, but being part of a large institution often means investment in outreach is essential. By incentivizing students to learn more about the work that we do through raffles, sustainable merchandise, and contests, TGIF was able to significantly increase the amount and diversity of applications that we received in the 2019-2020 academic year and beyond.",
+		"amt": 5000
+	},
+	{
+		"quarter": "Spring",
+		"year": 2019,
+		"org": "Clean Consulting",
+		"name": "TRUE Certification",
+		"desc": "Clean Consulting attained TRUE Certifications for 15 of their student consultants. The certificate program provides a comprehensive curriculum for individuals who wants to learn about zero waste policies and programs and help projects participating in TRUE Zero Waste certification. TRUE Advisor certificate holders have a practical understanding of the most innovative current zero waste business principles, and they demonstrate a clear commitment to professional growth in advancing TRUE values. After successful completion, a TRUE Advisor helps prepare businesses for TRUE Zero Waste certification and assist organizations through the certification process.",
+		"amt": 4200
+	},
+	{
+		"quarter": "Spring",
+		"year": 2019,
+		"org": "Underground Scholars Initiative",
+		"name": "Just Culture",
+		"desc": "The Underground Scholars Initiative aims to showcase performances and art by local artists that speak of the struggles they face as members of historically marginalized populations. This particular event allows communities of color and the UCLA community to come together and enjoy an afternoon celebrating the resilience found in marginalized communities that often go unnoticed. This organization supports all current and prospective students impacted by mass incarceration, imprisonment, and involuntary detainment of any kind and overall aim to create a pathway for formerly incarcerated and system impacted individuals into higher education.",
+		"amt": 8412.35
+	},
+	{
+		"quarter": "Spring",
+		"year": 2019,
+		"org": "Alpha Delta Pi Sorority",
+		"name": "Solar Panels",
+		"desc": "The goal of this project is to install solar panels onto ADPi's roof. Its key components include solar panels installation and roof repairing, ensuring that the solar panels are installed safely and securely while also addressing energy and waste conservation. Solar panels are a huge component to making ADPi’s home more sustainable, as they already have made significant progress in other efforts such as recycling, reusing, and using compostable products.",
+		"amt": 150000
+	},
+	{
+		"quarter": "Spring",
+		"year": 2019,
+		"org": "Sustainable Resource Center",
+		"name": "Sustainable Collaboration Nexus Initiative",
+		"desc": "In the past, the Sustainable Resource Center was meant as a space for students to come and learn about sustainability through reading books on the subject. However, they recognized how busy students are, and instead, focused their efforts on outreach. Through this project, they redesigned the office into a space that is friendly for all program and events. By making an interactive Google whiteboard the centerpiece of their office, they hope that every student can use this piece of technology for their projects, plannings, and meetings as they see fit. With that centralization of traffic, the SRC overall aims to educate and work with students on their sustainable goals.",
+		"amt": 5085.06
+	},
+	{
+		"quarter": "Spring",
+		"year": 2019,
+		"org": "Pacific Islanders for HEALTH",
+		"name": "Youth Health and Fitness Day",
+		"desc": "The annual Native Hawaiian and Pacific Islander Youth Health and Fitness Day (NHPI YHFD) is an event that aims to address the many health disparities of the NHPI community, particularly the high rates of chronic diseases like obesity, heart disease, and hypertension. Their goal is to provide culturally competent services and resources to educate the NHPI community, specifically the youth, about living a healthy lifestyle. They hope that through education and prevention, they can contribute to eradicating the health disparities of the NHPI community, specifically obesity. NHPI partners with several community and school organizations to provide services like blood pressure and BMI screenings, fitness workshops, information on health and fitness, and much more.",
+		"amt": 3909.03
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "REA",
+		"name": "Biodiesel Team",
+		"desc": "The Renewable Energy Association Biodiesel Team’s overall purpose is to create a greener campus community. They do this by converting waste cooking oil from campus entities, including The Hill’s dining halls, ASUCLA, and Café Med, into biodiesel that is used by UCLA Fleet’s diesel vehicles and backup generators. This ensures that pollution from and disposal of waste oil is minimized. It also allows UCLA to utilize a proven form of renewable energy that reduces UCLA’s carbon footprint and costs with self-produced fuel. The first key component of the project is to organize a waste oil collection system throughout UCLA and potentially part of the surrounding Westwood community. The second component is building a student-designed reactor to convert waste oil into biodiesel after pretreatment, which is tested using an industry-standard transesterification reaction. Finally, the biodiesel is tested by a third party to ensure the biodiesel follows US regulations before it is used on campus as an alternative to nonrenewable diesel.",
+		"amt": 3742
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "FAC",
+		"name": "Outdoor hydration stations",
+		"desc": "In conjunction with Facilities Management and the Healthy Campus Initiative, FAC invested in outdoor water fountains that are ADA compliant and have reusable water bottle compatibility. They used the TGIF funds to buy the specific water fountain fixtures themselves to lessen the overall costs of the project and solidify that this effort is in the students’ best interest.",
+		"amt": 9878
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "JRF",
+		"name": "Jazz Reggae Fest",
+		"desc": "The ****JazzReggae Festival has been an integral part of the UCLA and LA communities. They continue to celebrate decades of good vibes, great music, and cultural enrichment with a one-day festival under the Los Angeles sun. In addition to the early festival elements of jazz, reggae, and a grassy venue, they aim to preserve the sustainable initiatives, live art, and food and craft vendor elements that have become central to the festival in recent years. Since 1986, the Jazz Reggae Festival has strived to create a cohesive and welcoming space through music for UCLA students and the greater LA community. They plan to create an atmosphere that is inviting, fun, and green through the integration of sustainable practices in waste management, vendor booths, stage logistics, visual art displays, and guest hospitality. Green practices are not just a component of the festival but an integral part of their mission.",
+		"amt": 8000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "FSC",
+		"name": "Lab Coat Loaner Library",
+		"desc": "The Lab Coat Loaner Library aims to lessen both the financial burden in the daily lives of students and general fabric waste by UCLA and its students. This program prevents students from needing to purchase lab coats which, in effect, reduces the number of lab coats that go to waste after students are no longer in need of them. The end goal is both to help instill a certain sense of financial security in students, alleviating daily stress, while simultaneously reducing fabric waste in the form of previously used lab coats.",
+		"amt": 5000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "CCM",
+		"name": "Querer es Poder",
+		"desc": "Their organization hosted a conference at UCLA to provide minority students with the resources necessary to pursue higher education. In order to have them learn more about higher education and the pre-health route, they provided a variety of workshops, ranging from the college admission process to different health careers that are available to them. In caring about future generations’ educational paths, this conference also focused on the impacts that our actions have on the environment. They emphasized the importance of recycling and using eco-friendly material by providing reusable bags made from recycled material and environmentally friendly pens. They overall tried to cultivate new habits within their students so that their students understand the importance of being environmentally sustainable and friendly.",
+		"amt": 1825
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "Sustainable Resource Center",
+		"name": "“We the Future\" Sustainability PSA",
+		"desc": "The Sustainable Resource Center created ****a PSA by UCLA students to UCLA students, calling for a change to be made within UCLA’s campus regarding sustainability efforts. They included many sustainability leaders along with other student leaders and our school’s Film and Photography Society to produce this short PSA. Showing student faces and stories along with why we should be changing certain impactful habits, this PSA touched upon problems such as plastic pollution, global warming, food waste, and other issues affecting all students now and in the future.",
+		"amt": 3062
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "E3",
+		"name": "Earth Month",
+		"desc": "Earth Month celebrates the earth, the communities it houses, and work that promotes sustainability. For this year’s Earth Month, E3 dedicated April to address four key environmental (justice) issues, using these topics as a foundation for activities throughout the month. The four issues were food justice, toxic chemical “-icides”, air quality, and water justice. With these key issues in mind, Earth Month planned a series events that were coordinated under Earth Month and as collaborations with other student organizations and campaigns. Earth Month specific events included Welcome Week, Project T.E.A.L. (Trainings for Environmental Activists and Leaders), the Free Produce Fair, the Earth Day Fair, and a Speaker Panel.",
+		"amt": 5000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "SRC",
+		"name": "Impact Hacks",
+		"desc": "Impact Hacks is a platform for students to innovate sustainable solutions for problems specific to Los Angeles and the surrounding area. The goal of their event is to promote ideation for sustainable businesses, policies, and programs across the three pillars of sustainability (environment, economy, and equity). In order to facilitate this process, they invited speakers to host workshops throughout the day from topics ranging from social justice, social entrepreneurship, and the environment. To incentivize the participants to go above and beyond, the participants presented their hacks at the end of the event to be eligible to receive prizes for their work. They invited judges from a range of backgrounds to judge on the following criteria: feasibility, impact, and creativity.",
+		"amt": 6640
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "ASUCLA",
+		"name": "Sustainability Student Internship",
+		"desc": "With the help of their student interns, ASUCLA conducted an assessment of UCLA Student Union Sustainability by examining the waste, energy, green buildings, and other areas related to sustainability. Their impact consisted of four main areas: education, outreach, assessment, and waste diversion. Their student interns had the opportunity to improve their education on sustainability by assessing a large scale building operations and presenting ideas for recommendations for waste management, energy consumption, and educational programs. The internship also allowed ASUCLA to create additional plans for how to meet the targets set forth in the UC Sustainability Policy and our partners at UCLA Sustainability department.",
+		"amt": 6000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "WYSE",
+		"name": "WYSE Water Bottles",
+		"desc": "Women and Youth Supporting Each Other (WYSE)’s mission is to empower young women by providing them with the necessary resources to make positive life decisions and create lasting change within their communities. This is done through WYSE’s curriculum-based mentorship program, which pairs UCLA mentors with middle school girls. WYSE curriculum covers a wide range of topics including healthy relationships, mental health, and civic engagement. The purpose of their project is to purchase reusable water bottles for their mentors and mentees so that they could lower the amount of waste produced by beverage containers and plastic water bottles during site sessions and special events, such as field trips.",
+		"amt": 600
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "Environmentalists of Color Collective at UCLA",
+		"name": "Climate Justice Forum 2019",
+		"desc": "The UCLA Environmentalists of Color Collective was brought together as a means of making space to challenge white-dominated contexts of the contemporary environmental justice movement by amplifying and prioritizing the narratives, experiences, and needs of black, indigenous, and people of color. The long-term goal of this collective is to create a permanent space at UCLA that serves its community in vocalizing and undertaking issues of environmental injustices for people of color. By hosting a Climate Justice Forum, the UCLA Environmentalists of Color Collective hopes to accomplish four things: 1) Raise awareness about the contributions that people of color have made to the environmental sustainability movement, 2) Reframe the definition and values of mainstream environmentalism to be more inclusive of all underrepresented communities, 3) Stimulate critical dialogue about environmental racism and justice issues at UCLA and beyond, and 4) Collaborate with other students and student organizations to help address and take action in environmental issues in a equitable and socially responsible way.",
+		"amt": 13024
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "Counterforce Lab",
+		"name": "Art & Environment Series",
+		"desc": "This series consists of interrelated events: roundtables, lectures, and exhibitions distributed during the year that cultivate an interdisciplinary discussion around the environment and the arts at UCLA and beyond. The goal of this program is to provide the infrastructure and knowledge to enable artists, designers, and scientists to develop new collaborative insights, disciplines, and methods to research, create, design, and execute projects around three topics: waste, environmental justice, and new strategies to work with and not at the expense of Nature.",
+		"amt": 2160
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "Afrikan Student Union",
+		"name": "Higher Education Conference",
+		"desc": "The Afrikan Student Union’s Higher Education Conference is an annual event for middle school and high school aged students, with the intention of changing the perception surrounding access to institutions of higher learning. The Higher Education Conference provides students from neighboring inner city middle schools and high schools with an engaging perspective and uplifting perspective on seizing their right to higher education. The main objectives of this program is to impart knowledge about the inner-workings of college, to empower students, and inspire self advocacy and activism as it pertains to their academics and communities. This conference overall aims to center holistic sustainability beginning with the self and then extending it to their environment and communities.",
+		"amt": 1700
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "Fair Trade Campaigns",
+		"name": "National Fair Trade Conference",
+		"desc": "The National Fair Trade Conference gives students the opportunity to learn from experienced campaigners and social justice advocates, as well as network with other students and faculty from across the country who are engaged in similar work on their own campuses. Not only do they gain insights into how to improve their advocacy for Fair Trade within the UCLA community, but the conference allows them to build professional connections and celebrate their achievement in making UCLA the second largest Fair Trade university in the US.",
+		"amt": 1963
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "Bruin Bee Keepers",
+		"name": "Hive Building",
+		"desc": "Bruin Beekeepers at UCLA intends to build nests for its native bee population. As the leading pollinators in our community, solitary bees live in any little crevice or hole they find. Building nests for these bees gives them a home and a chance for them to focus on pollinating. This project aims to develop functional habitats for the native bee species. They hope to expand hive development projects over the greater Los Angeles area, beyond UCLA Stunt Ranch and botanical gardens. Additionally, they seek to raise awareness of the importance of preserving lesser known bee populations by educating their members through presentations during bi-weekly meetings. Their overall goal is to expand their organization so more people can be educated on the importance of different bee species and their hive projects can continue to further develop.",
+		"amt": 1117
+	},
+	{
+		"quarter": "Winter",
+		"year": 2019,
+		"org": "Coastalong",
+		"name": "Coastalong Festival",
+		"desc": "Coastalong is UCLA’s only bike-powered, student-produced festival, hosted at Sunset Canyon Recreation Center. Coastalong’s purpose is to spread sustainability in a unique and engaging way. They decrease reliance on non-renewable energy sources by producing energy for our speakers via pedaling stationary bike generators. They also spread sustainable practices at their Sustainability Fair, which hosts eco-friendly student organizations, hands-on projects like solar-powered lights, and creative art projects. Their hope is for attendees to learn about renewable energy, sustainable practices, general environmental awareness, and unite in an important cause.",
+		"amt": 25000
+	},
+	{
+		"quarter": "Fall",
+		"year": 2018,
+		"org": "BHS: Electric Vehicle",
+		"name": "Electric Vehicle Conversion",
+		"amt": 9000
+	},
+	{
+		"quarter": "Fall",
+		"year": 2018,
+		"org": "Carbon Neutrality Initiative",
+		"name": "Carbon Neutrality Initiative Ambassadors Program",
+		"desc": "Undergraduate CNI Fellows aim to 1) engage UCLA students, faculty, and staff in the initiative, and 2) promote and research ways in which the UCLA community can reduce its individual and overall carbon footprints. To further engage the student body, they created the CNI Ambassadors Program, a two-quarter long program that immerses a select number of UCLA students in the initiative. In this program, they hire six ambassadors who are trained to communicate the CNI and UCLA’s general sustainability goals through an interactive curriculum until the end of the school year. This curriculum includes sessions from the UCLA Office of Sustainability, a tour of the Cogeneration Plant, presentation guidance, how to represent CNI at events, and promoting the UC-wide Cool Campus Challenge. The long-term goal of this program is to foster knowledge of the CNI to individual students who can serve as change agents for promoting awareness to UCLA’s sustainability goals.",
+		"amt": 7768
+	},
+	{
+		"quarter": "Fall",
+		"year": 2018,
+		"org": "USAC Facilities Commission",
+		"name": "Smart Moisture Sensors and Data Console",
+		"desc": "For UCLA to adhere to the UC’s 20% potable water reduction goal, considerable reductions must be made to the campus’ overall water consumption. After conducting student surveys during the 2017-2018 school year, the USAC Facilities Commission determined that students deemed UCLA’s sprinkler and infrastructure systems as the most contributing factors to UCLA’s inability to reach its reduction goals. Watered sidewalks. Oversaturated greenspaces. To address this problem, the Facilities Commission worked with administrators to identify and alter areas of campus that are either over-watered or under-utilized by our current irrigation infrastructure. To achieve this goal, precise and accurate data was needed to verify over-watering events throughout campus with empirical data. By purchasing remote moisture sensors and a cloud-connected data center, the Facilities Commission was able to gather real-time data with immediate and shareable access.",
+		"amt": 3000
+	},
+	{
+		"quarter": "Fall",
+		"year": 2018,
+		"org": "Bruin Home Solutions: Hydroponics",
+		"name": "Luskin Living Wall",
+		"desc": "The Luskin Hydroponics Farm is an initiative focused on researching growing food using less resources without producing waste. For this project, BHS designed, installed, and currently operates an automated hydroponics farm on a site in the Luskin School of Public Affairs building on campus. This project aims to increase the availability of nutritious produce and bolster food security for students. The focus of the project now lies in researching recipients of the grown food and collecting data on the food to improve the wall’s functionality. BHS focuses on the replicability of the system for this pilot project to be recreated so that a larger portion of food can be grown locally, where we live, learn, and work.",
+		"amt": 2674
+	},
+	{
+		"quarter": "Fall",
+		"year": 2018,
+		"org": "Supermileage Vehicle at UCLA",
+		"name": "Electric Vehicle",
+		"desc": "The Electric Vehicle is a project designed and founded by UCLA students. The Supermileage Vehicle team strives to make the vehicle as fuel efficient as possible, while at the same time, using sustainable practices. Additionally, because it is an electric vehicle and not gas powered, their project promotes outside of the box thinking within the sustainability space. Their electric vehicle directly addresses the issue of automobile carbon pollution, which aligns with UCLA’s goal of attaining carbon neutrality by 2025.",
+		"amt": 9000
+	},
+	{
+		"quarter": "Fall",
+		"year": 2018,
+		"org": "SWC EARTH",
+		"name": "Love the Environment that Loves You",
+		"desc": "SWC Earth has held many informational tabling events within their committee in the Student Wellness Commission as well as with other organizations at events like Sustainival and Coastalong. However, they found that authoritative lecture-esque appeals were not working. To change the direction of their organization, they focused on four key parts: 1) creating environmental health videos, 2) going on a wilderness retreat for natural immersion and journal writing, 3) posting videos and journals weekly, and 4) hosting an art gallery. They believe that the most important part of all of this is giving their members (in E.A.R.T.H. and Active Minds) the experience to boost their own appreciation for the environment so that they can better and more powerfully share their concern and passions with fellow students, family, and friends. Peer-to-peer influence is one of the most powerful tools.",
+		"amt": 2451
+	},
+	{
+		"quarter": "Fall",
+		"year": 2018,
+		"org": "Renewable Energy Association",
+		"name": "Waste Awareness Week Opening",
+		"desc": "Waste Awareness Week is designed to promote greater awareness on UCLA campus for the significance of effective waste treatment and waste reduction. Part of this initiative requires the collaboration from the entire student body, who they aim to spark attention from through the opening of the Waste Awareness Week. The Waste Awareness Week's opening day includes art installations, awareness posters, and wasteless flyers. A photo exhibition in Kerckhoff Art Gallery takes place, whose overarching theme is related to environmental justice via shocking waste-related images. Their partners host waste management workshops, movie showings, and zero-waste drives to engage, educate, and mobilize the student body regarding waste management.",
+		"amt": 2100
+	},
+	{
+		"quarter": "Fall",
+		"year": 2018,
+		"org": "IDEA Hacks",
+		"name": "Hackathon with theme \"Travel Upgrade\"",
+		"desc": "IDEA Hacks helps students develop a meaningful project that they can be proud of. Students are given the components they need to learn how to create and build innovative products. This year’s hackathon theme was “Travel Upgrade,” where students were expected to develop items that help their everyday travel. These items could range from solar-powered gadgets to self-driving longboards. IDEA Hacks hopes to benefit the world around us through technology, which is why they chose “Travel Upgrade,” an environmentally and socially relevant theme. They overall aim to encourage students to create projects that are environmentally conscious and solve real-world problems.",
+		"amt": 5500
+	},
+	{
+		"quarter": "Fall",
+		"year": 2018,
+		"org": "Bruin Hyperloop",
+		"name": "Design and build a sustainable transportation future",
+		"desc": "The mission of Bruin Hyperloop is to research, design, and build Hyperloop pod systems and develop advanced thermal, electronic, mechanical, magnetic technologies for sustainable Hyperloop-based transportation. Students in Bruin Hyperloop are empowered by a common goal: to develop a more sustainable transportation technology that promises affordable, safe, and environmentally-friendly travel at supersonic speeds. Through this process, Bruin Hyperloop represents the university as a world leader in developing innovative solutions to societal problems of the future while providing UCLA students with practical education in sustainable transportation to complement what they learn in the classroom.",
+		"amt": 9000
+	},
+	{
+		"quarter": "Fall",
+		"year": 2018,
+		"org": "Bruin Home Solutions: LEED Team",
+		"name": "LEED Education and Building Audits",
+		"desc": "UCLA is stepping up as a global leader in sustainability and is undertaking a massive effort to bring old campus buildings up to new green standards under the Leadership in Energy and Environmental Design (LEED) Certification. Bruin Home Solutions (BHS) is dedicated to supporting this effort from the student level. They not only train their members in these standards but also provide them with real-world experience by running water and lighting audits on UCLA facilities. Their LEED Green Associate training is a quarter-long free program that educates UCLA students on LEED standards, aiming to break down the previous major barriers to entry and the cost of training.",
+		"amt": 14590
+	},
+	{
+		"quarter": "Fall",
+		"year": 2018,
+		"org": "Renewable Energy Association",
+		"name": "Biodiesel Team",
+		"desc": "The Renewable Energy Association Biodiesel Team experiments with wasted cooking oil taken from places, such as the UCLA dining halls and food venues, and converts the cooking oils into diesel fuel that can be used for vehicles. Their goal is to be able to create a steady supply of biodiesel to fuel the fleet of 25 diesel vehicles and 1 diesel bus that UCLA uses around campus. These diesel vehicles use up to 200 gallons of petroleum diesel a year normally, but they plan to change it so that they are all fueled by biodiesel. This would help protect the environment and reduce pollution, as biodiesel drastically reduces any hazardous chemicals and pollutants that petroleum diesel normally creates.",
+		"amt": 4457
+	},
+	{
+		"quarter": "Fall",
+		"year": 2018,
+		"org": "Golden State Solar Car Team",
+		"name": "Solar Car",
+		"desc": "Solar Car’s project focuses on building a practical, four-seater road vehicle powered by the sun. In addition to building the solar car, they test the vehicle and ultimately race the vehicle. The races themselves are very memorable, as they are cross-country marathons. The most notable competition is the World Solar Challenge, a 3000km journey across Australia.",
+		"amt": 9000
+	},
+	{
+		"quarter": "Spring",
+		"year": 2018,
+		"org": "TGIF Sustainability Innovation Challenge",
+		"name": "CHESC Attendance",
+		"desc": "The California Higher Education Sustainability Conference brings together California Community Colleges, California State University, University of California and representatives of private and independent colleges in California to share best practices in campus sustainability efforts. This conference focuses on the sharing of best practices and lessons learned from the people on the front lines of implementing sustainability efforts in California higher education.",
+		"amt": 2500
+	},
+	{
+		"quarter": "Spring",
+		"year": 2018,
+		"org": "TGIF Sustainability Innovation Challenge",
+		"name": "Bruin Home Solutions Aquaponics",
+		"desc": "Bruin Home Solutions designed an aquaponics system that was integrated at the UCLA Sunset Canyon Recreation Center. The Sunset Aquaponics Garden consisted of four 800 gallon cylindrical stock fish tanks, each stocked with a mixture of koi and goldfish. The Sunset Aquaponics Garden is innovative, due in part to the design of the mechanical filter system which almost entirely automates its own cleaning and maintenance process. This system also generates all of its own electricity with a 5 kW solar panel array, which powers the system during the day and stores energy in a battery network to be used at night. The Sunset Aquaponics Garden presents a rare and unique opportunity to engage the UCLA community in cutting-edge sustainability research and an initiative to generate produce in support of the food-insecure population. BHS hopes that their system serves as a seed system for other aquaponics systems at UCLA and other UC campuses to help combat similar sustainability issues, as the Sunset Aquaponics Garden will be just one of an estimated 1,000 school aquaponics systems in the United States, further highlighting the need for the implementation and novel design of the Sunset Aquaponics Garden.",
+		"amt": 50000
+	},
+	{
+		"quarter": "Spring",
+		"year": 2018,
+		"org": "Mentors Empowering and Nurturing Through Education (MENTE)",
+		"name": "Shadow Day",
+		"desc": "Mentors Empowering and Nurturing Through Education’s target service recipients are first generation students and those tracked as socio-economically disadvantaged. MENTE draws from the individual experiences of UCLA volunteers as a new form of “social capital” under the Community Cultural Wealth Framework. Through individual experience, MENTE seeks to validate the necessity to engage “peertees” with college readiness in three major themes: college application, financial literacy, and social justice information. Not only do the service recipients of MENTE benefit from knowledge regarding systems of higher education, but they also get exposure to different forms of sustainability, such as understanding the distinctions between the three different trash receptacles. Knowledge serves as the first step towards opening a gateway to enhancing engagement. Since their site is K-12, it has potential to cultivate not only a community that allows for the matriculation of individuals from socioeconomically disadvantaged areas into a postsecondary institution but a community that is also environmentally aware.",
+		"amt": 2417.54
+	},
+	{
+		"quarter": "Spring",
+		"year": 2018,
+		"org": "Farmers Market UCLA",
+		"name": "Strawberry Festival Trip",
+		"desc": "For the last few years, the Farmers Market at UCLA has organized an annual trip to Ayala Farms in Oxnard, CA. Student participants learn about small farm operation and sustainability practices in Mediterranean climates and become knowledgeable about SoCal seasonal produce like strawberries and kale. This event also strengthens the relationship their organization has with their vendors. Students follow strawberry-picking by attending the annual Strawberry Festival, where they are exposed to products and activities related to sustainability and wholesale food.",
+		"amt": 1014
+	},
+	{
+		"quarter": "Spring",
+		"year": 2018,
+		"org": "Farmers Market UCLA",
+		"name": "Sustainable Future Panel",
+		"desc": "Farmers Market at UCLA, a newly registered student organization that supervises the non-profit market under the same name, hosted the speaker panel “Sustainable Future: Food Business and Agriculture.” They invited five professionals from government agencies, non-profit organizations, the agricultural sector, clean technology, and trending food businesses to discuss how the joint forces of sustainability, agriculture, and business can improve the effectiveness of our food system and bring food justice to all. Their overall goal was to give students the opportunity to learn about day-to-day sustainability practices and explore career choices related to food, sustainability, and agriculture.",
+		"amt": 2000
+	},
+	{
+		"quarter": "Spring",
+		"year": 2018,
+		"org": "SWC EARTH",
+		"name": "Altered Faucets",
+		"desc": "In line with The Green Initiative Fund’s objectives, SWC E.A.R.T.H. has an active role in promoting sustainability both on and off campus. Water conservation has been a huge concern, especially since UCLA is home to over 44,000 students and is located in dry southern California. To address this problem, they came across the idea of altered faucets: a nozzle that can be installed onto existing tap to save 80% of water in public restrooms. SWC E.A.R.T.H. then purchased these altered faucets, installing them in Kerckhoff restrooms (15 faucets) and Ackerman (40 faucets), with a grand total of 55 faucets. Their goal of purchasing altered faucets for Kerckhoff and Ackerman building is the catalyst for a larger vision of theirs—to spread water-saving technologies across UCLA Campus.",
+		"amt": 765.6
+	},
+	{
+		"quarter": "Spring",
+		"year": 2018,
+		"org": "SAR",
+		"name": "Native Landscape Survey",
+		"desc": "The purpose of their project is to promote and eventually institutionalize landscaping and development policy that emphasizes native plants throughout UCLA’s campus and projects. The key components of this project involved plant recommendations in a palette, a survey on campus attitudes and knowledge about native plants and their benefits (the focus of the this application), and outreach results demonstrating where policies like this have been successful and affected positive change. They aimed to help key stakeholders like Nurit Katz and Bonny Bentzin demonstrate to the necessary parties that a policy emphasizing native plants in future projects is not only feasible but also necessary to promote a biodiverse and healthy campus for years to come.",
+		"amt": 141.08
+	},
+	{
+		"quarter": "Spring",
+		"year": 2018,
+		"org": "E3",
+		"name": "Spring Retreat",
+		"desc": "E3 leads several ongoing projects to promote and improve campus sustainability. Their Spring Retreat involved bonding activities for current and future E3 board members to not only improve team cohesiveness but also to foster the development of ideas for future campaigns and E3 campus-wide events. Current leaders shared their experiences as part of the E3 community and how they thought the club should move forward. Future board members came out of this retreat better prepared to lead campaigns and engage the student body in sustainability issues.",
+		"amt": 1000
+	},
+	{
+		"quarter": "Spring",
+		"year": 2018,
+		"org": "Student Committee for the Arts",
+		"name": "Upcycled Messenger Bags",
+		"desc": "This project is designed to promote sustainability within the arts and specifically within the Student Committee for the Arts. One of the core tenets of sustainability is the practice of reusing, and this project embodies that by making messenger bags out of lightpost banners advertising the Center for the Art of Performance. These banners change every year in accordance with the yearly arts program and are typically thrown out after each season. This project aims to divert that waste and refashion them into merchandise for SCA.",
+		"amt": 10104.98
+	},
+	{
+		"quarter": "Spring",
+		"year": 2018,
+		"org": "Unicamp",
+		"name": "Outdoor Science Education",
+		"desc": "UCLA UniCamp’s Outdoor Education Session has an active role in promoting sustainability both on and off campus. Their goal is to educate their volunteers on the fundamentals of environmental science and sustainability. This includes earth science, climate science, atmospheric science, oceanography, ecology, environmental engineering, and environmental policy and politics. Once the volunteers have the necessary skills to teach middle school students about these topics, they become leaders within the camp and put their knowledge to use.",
+		"amt": 5000
+	},
+	{
+		"quarter": "Spring",
+		"year": 2018,
+		"org": "MAI",
+		"name": "Medical Aid Initiative",
+		"desc": "The Medical Aid Initiative seeks to create more sustainability in the health field, specifically at UCLA health, by collecting and distributing excess medical supplies to organizations and underserved communities in the U.S. and around the world that need them. Medical surplus causes billions of dollars of waste every year in the U.S and often the medical supplies that are discarded are perfectly usable. These sustainability issues must be addressed because the fiscal toll of such waste is transferred to patients, and the excess medical supplies represent a grossly missed opportunity to help alleviate the suffering of the millions of people worldwide who do not have access to basic medical supplies. The key components of this initiative are collecting, inventorying, and distributing much-needed medical supplies.",
+		"amt": 283.48
+	},
+	{
+		"quarter": "Winter",
+		"year": 2018,
+		"org": "Fair Trade Campaign",
+		"name": "National Conference Attendance",
+		"desc": "The UCLA Fair Trade Campaign sends three students to the Fair Trade Campaigns’ National Conference in Chicago. This conference gives them the opportunity to learn from experienced campaigners and social justice advocates, as well as network with other students and faculty from across the country who are engaged in similar work on their own campuses. Not only do they gain insights into how to improve their advocacy for Fair Trade within the UCLA community, but the conference also allows them to build professional connections and celebrate their achievement in making UCLA the second largest Fair Trade university in the US.",
+		"amt": 3629
+	},
+	{
+		"quarter": "Winter",
+		"year": 2018,
+		"org": "Naya Zamaana",
+		"name": "Sahana",
+		"desc": "Sahana is an intercollegiate South Asian a cappella competition and is the premiere event of its kind to take place in Southern California. This event was hosted by Naya Zamaana, UCLA's premiere South Asian a cappella team. Sahana is a “bid competition” for All American Awaaz, the national championship for collegiate South Asian a cappella, meaning the results of this competition directly affect team placement for nationals. Sahana is set apart from other competitions, as all proceeds from this event are donated to Project Rishi, a non-profit organization promoting sustainability and \"green\" development in rural Indian communities. Project Rishi's mission plays a central part in their event, and Sahana serves the dual purpose of educating the public about Indian culture as well as the country's sustainable development.",
+		"amt": 435
+	},
+	{
+		"quarter": "Winter",
+		"year": 2018,
+		"org": "Good Clothes Good People",
+		"name": "Hill Donation Bins",
+		"desc": "This project is a new initiative related to the original Good Clothes Good People TGIF proposal to place six permanent clothing donation bins on campus. GCGP installed metal closed-top bins in every residence hall on the Hill, which provided an alternative for students to donate clothes on the hill, giving those donations back to Bruins instead of being sold off-campus. This project aims to reduce waste on campus, of which much comes from textile-based objects. The donated clothes go directly to a center that is located in the Student Activities Center (SAC) for clothing distribution.",
+		"amt": 10807.72
+	},
+	{
+		"quarter": "Winter",
+		"year": 2018,
+		"org": "Environmentalists of Color Collective at UCLA",
+		"name": "Climate Justice Forum",
+		"desc": "The UCLA Environmentalists of Color Collective was brought together as a means of making space to challenge white-dominated contexts of the contemporary environmental justice movement by amplifying and prioritizing the narratives, experiences, and needs of black, indigenous, and people of color. The long-term goal of this collective is to create a permanent space at UCLA that serves its community in vocalizing and undertaking issues of environmental injustices for people of color. By hosting a Climate Justice Forum, the UCLA Environmentalists of Color Collective hopes to accomplish three things: 1) raise awareness about the contributions that people of color have made to the environmental sustainability movement, 2) reframe the definition and values of mainstream environmentalism to be more inclusive of all underrepresented communities, and 3) stimulate critical dialogue about environmental racism and justice issues at UCLA and beyond.",
+		"amt": 8072
+	},
+	{
+		"quarter": "Winter",
+		"year": 2018,
+		"org": "Coastalong",
+		"name": "Coastalong 2018",
+		"desc": "Coastalong is UCLA’s only bike-powered, student-produced concert, hosted at Sunset Canyon Recreation Center. Unlike traditional concerts, students power the speakers by pedaling on stationary bike generators, eliminating energy dependency from the grid. They hope that people come to learn and physically partake in the production of renewable energy, uniting students and community members toward a common cause and promoting general environmental awareness. This festival is a 6-hour outdoor event featuring nine bicycle generators, outside food vendors, a Sustainability Fair with over 30 student organizations, a handful of talented student bands, and a headliner.",
+		"amt": 25000
+	},
+	{
+		"quarter": "Winter",
+		"year": 2018,
+		"org": "Bruins Fighting Pediatric Cancer",
+		"name": "Renewable Initiative",
+		"desc": "The purpose of the BFPC Renewable Initiative is to incorporate sustainable practices within the club, while simultaneously encouraging club members to practice sustainability. A key component of the project includes using recycled materials in their volunteering supplies, and one of their goals is to stock the hospital playroom with recycled paper used for crafts and signs.",
+		"amt": 107.02
+	},
+	{
+		"quarter": "Winter",
+		"year": 2018,
+		"org": "Kids Korner",
+		"name": "Discovery Cube",
+		"desc": "Kids Korner is a tutoring and mentoring program that caters to children from low income families living in government-subsidized housing complexes in North Hollywood. During their trip to Discovery Cube, the students had the opportunity to go through an exhibit called the “Race to Zero Waste.” There was also a planetary research aspect of the trip, which served to help broaden the young students’ knowledge on issues regarding sustainability. By exposing these students to sustainability at a young age, they encouraged consciousness about environmental issues in the future generation of UCLA students.",
+		"amt": 593.85
+	},
+	{
+		"quarter": "Winter",
+		"year": 2018,
+		"org": "E3 Earth Month",
+		"name": "Earth Month 2018",
+		"desc": "The purpose of Earth Month at UCLA is to get students excited about sustainability both on campus and on a global level. It highlights UCLA’s accomplishments in green innovation and offers opportunities for students to learn about different aspects of sustainability on campus and how they can get involved. This year’s Earth Month theme was “What Can You Do?” focusing on what we can all do to live sustainable lifestyles. Earth Month celebrates Earth Day with four main events throughout April. To kick off the month, they invited speakers (chosen from professors, students, and professionals from various areas related to sustainability) to their Speaking Panel. The second component was a DIY Sustainable Tie-Dye Workshop held during their E3 General Meeting. Three days before Earth Day, they had their 15th annual Earth Day Fair. Finally, to close out Earth month, they had a free Farmers Market.",
+		"amt": 11748
+	},
+	{
+		"quarter": "Winter",
+		"year": 2018,
+		"org": "Pacific Islanders for H.E.A.L.T.H.",
+		"name": "Native Hawaiian Pacific Islanders Youth Health and Fitness Day",
+		"desc": "The annual Native Hawaiian and Pacific Islander Youth Health and Fitness Day (NHPI YHFD) is an event that aims to address the many health disparities of the NHPI community, particularly the high rates of chronic diseases like obesity, heart disease, and hypertension. Their program’s goal is to provide culturally competent services and resources to educate the NHPI community, specifically the youth, about living a healthy lifestyle. They hope that through education and prevention, they can contribute to eradicating the health disparities of the NHPI community, specifically obesity. NHPI YHFD partners with several community and school organizations to provide services like blood pressure and BMI screenings, fitness workshops, information on health and fitness, and much more.",
+		"amt": 520.54
+	},
+	{
+		"quarter": "Fall",
+		"year": 2017,
+		"org": "Zero Waste by 2020/Residential Life",
+		"name": "Clothes Out Initiative",
+		"desc": "This project expands UCLA’s ongoing “Zero Waste by 2020” initiative by partnering with Residential Life’s “Clothes Out” campaign and a national nonprofit organization, Good Clothes Good People, in order to place reflective and attractive clothing donation bins in dorm buildings at UCLA and in campus spaces. This project received over 20 donated bins from local trash-collecting or storage companies and renovated them to make artistic clothing donation bins that reflect the spirit of UCLA.",
+		"amt": 850
+	},
+	{
+		"quarter": "Fall",
+		"year": 2017,
+		"org": "CHAMPs (Casa Heiwa Angelina Mentorship Program)",
+		"name": "Natural History Museum",
+		"desc": "The Casa Heiwa and Angelina Mentorship Program (CHAMPs) is a mentoring and tutoring program with a focus on education, serving youth K-12. Their field trip to the Natural History Museum of Los Angeles supports the TGIF mission statement by giving volunteers and children alike the experience of visiting a museum that educates them about the natural history and ecosystems of Los Angeles. Their program’s goal was to inspire their mentees to value and preserve the resources in their local and global environment. They especially wanted to teach their mentees about how small actions that can be done at home like cleaning up litter and being mindful about pollution can make large, positive differences.",
+		"amt": 187.5
+	},
+	{
+		"quarter": "Fall",
+		"year": 2017,
+		"org": "Project W.I.L.D. (Working for Immigrant Literacy Development)",
+		"name": "IMAX Field Trip",
+		"desc": "Project Working for Immigrant Literacy Development (WILD) has been serving 2nd-5th graders at Temple Intermediate School since 1987 and at Arlington Heights Elementary School since 2014. Most of their tutees are first or second generation immigrants, and they strive to both tutor and mentor them through their individualized curriculum and interactive activities and field trips. In order to engage their tutees and introduce them to a variety of topics, they have a theme each quarter and tie their activities to those themes. Supporting the TGIF mission, they had an environmentalism and health theme that included topics such as health, eco-friendly snacks, green activities, and a field trip to the LA Natural History Museum.",
+		"amt": 347.5
+	},
+	{
+		"quarter": "Fall",
+		"year": 2017,
+		"org": "E3: Ecology, Economy",
+		"name": "Equity; Farmers Market at UCLA",
+		"desc": "Bruin Plaza transforms into a farmers market with local vendors and farmers selling a mix of fresh fruits and vegetables to the UCLA community. Farmers are placed throughout the plaza in pre-designated 10’ by 10’ spaces. Tables are set-up for groups to provide information and education regarding different groups and initiatives on campus. These groups include but are not limited to E3 and USAC SWC. It is not only a place to get fresh and local produce but a place where the UCLA community can come together and learn more about sustainable food systems.",
+		"amt": 3298.9
+	},
+	{
+		"quarter": "Fall",
+		"year": 2017,
+		"org": "College to Career (C2C)",
+		"name": "Sustainability Leadership Training",
+		"desc": "Under the Bard Center for Environmental Policy, the C2C Leadership Training’s goal is to create strong leaders who are knowledgeable, passionate, and effective in creating positive change toward sustainability. Participants attend workshops in which they work individually and in groups to pitch ideas, develop programs, and organize campaigns. On top of the intensive training, workshop trainees join a national network with access to collaborative and educational opportunities revolving around sustainability.",
+		"amt": 2250
+	},
+	{
+		"quarter": "Fall",
+		"year": 2017,
+		"org": "Bruin Hyperloop",
+		"name": "Hyperloop Transportation",
+		"desc": "The mission of Bruin Hyperloop is to research, design, and build Hyperloop pod systems and develop advanced thermal, electronic, mechanical, magnetic technologies for sustainable Hyperloop-based transportation. Students in Bruin Hyperloop are empowered by a common goal: to develop a more sustainable transportation technology that promises affordable, safe, and environmentally-friendly travel at supersonic speeds. Through this process, Bruin Hyperloop represents the university as a world leader in developing innovative solutions to societal problems of the future while providing UCLA students with practical education in sustainable transportation to complement what they learn in the classroom.",
+		"amt": 6000
+	},
+	{
+		"quarter": "Fall",
+		"year": 2017,
+		"org": "Bruin Home Solutions",
+		"name": "LEED Training and Implementation",
+		"desc": "UCLA Facilities is undertaking a massive effort to bring old campus buildings up to new green standards under the LEED Certification Program. The LEED Certification Program, or Leadership in Energy and Environmental Design, is an exam offered by the U.S. Green Building Council that assesses knowledge of today’s sustainable design, construction, and operations standards. Bruin Home Solutions is dedicated to supporting this effort from the student level. Their LEED Green Associate Training is a quarter long program that educates UCLA students on LEED standards, so they can implement building improvements on the UCLA campus. Bruin Home Solutions goes one step further—they not only train their members in these standards but also provide real-world experience by running a lighting and water audit on UCLA’s Powell Library.",
+		"amt": 7500
+	},
+	{
+		"quarter": "Fall",
+		"year": 2017,
+		"org": "Bruin Home Solutions",
+		"name": "Electric Vehicle Conversion",
+		"desc": "This project teaches students the important role electric vehicles play in a sustainable future as well as how to convert internal combustion engine vehicles into electric vehicles. The components of the project include the physical conversion of a 1974 VW Beetle into an electric vehicle and the teaching of how electric vehicles operate and why they are important in our world. Their vehicle and all other vehicles that are converted as a result of BHS’s outreach are powered fully on renewable energy like solar or wind.",
+		"amt": 21618.66
+	},
+	{
+		"quarter": "Fall",
+		"year": 2017,
+		"org": "Bruin Home Solutions",
+		"name": "Weyburn Hydroponics Farm",
+		"desc": "The Weyburn Hydroponics Farm is an initiative to research growing food using less resources without producing waste. BHS designs, installs, and operats an automated hydroponics farm on a site in the Weyburn graduate student housing complex. This project increases the availability of nutritious produce and bolster food security for students. The farm grows salad greens and herbs for the inhabitants of the Weyburn housing complex at no cost. BHS focuses on the replicability of the system in order for this pilot project to be recreated to grow a larger portion of food locally, where we live, learn, and work.",
+		"amt": 2000
+	}
+]
