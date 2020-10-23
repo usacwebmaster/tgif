@@ -7,16 +7,16 @@ layout: layout
 <% prevQtr = '' %>
 <% for (const proj of locals[content.trim()]) {%>
 	<% if (proj.quarter !== prevQtr) { %>
+		<hr>
 		<h2><%= proj.quarter %> <%= proj.year %></h2>
 		<% prevQtr = proj.quarter %>
 	<% } %>
 	<section>
 		<hgroup>
 			<h3><%= proj.name %></h3>
-			<h4><%= proj.org %></h4>
+			<h4><%= proj.org %> &mdash; $<%= Math.round(proj.amt) %></h4>
 		</hgroup>
 
 		<p><%= proj.desc %>
-		<p><strong>Amount:</strong> $<%= proj.amt %>
 	</section>
 <% } %>
