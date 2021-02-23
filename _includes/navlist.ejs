@@ -1,8 +1,12 @@
 <ul>
 	<% for (const item of Object.values(children)) { %>
 		<li><a tabindex=0
-				<% if (item.data.page.url) { %>
-					href="<%= item.data.page.url %>"
+				<% url = item.data.url || item.data.page.url %>
+				<% if (url) { %>
+					href="<%= url %>"
+					<% if (/^https?:\/\//.test(url)) { %>
+						target="_blank"
+					<% } %>
 				<% } %>
 
 				<% if (item.contains(page)) { %>
