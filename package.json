@@ -5,7 +5,7 @@
 		"test": "eleventy && sass -s compressed --no-source-map style:_site/img"
 	},
 	"devDependencies": {
-		"@11ty/eleventy": "^0.11.0",
+		"@11ty/eleventy": "^0.12.1",
 		"sass": "^1.26.11",
 		"typeface-montserrat": "^0.0.75",
 		"typeface-open-sans": "^0.0.75"
