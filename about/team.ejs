@@ -6,118 +6,18 @@ title: The Team
 
 <p>The TGIF Committee is the decision-making body of The Green Initiative Fund. It chooses which projects receive funding, approves changes to awards, and guides the general direction of TGIF.
 
-<h2>Voting Members</h2>
-
-<section class=person>
-	<img src=/img/team/ni.jpg alt="">
-	<div>
-		<hgroup>
-			<h2>Jane Ni</h2>
-			<h3>Committee Chair</h3>
-		</hgroup>
-		<p>TODO
-	</div>
-</section>
-
-<section class=person>
-	<img src=/img/team/ma.jpg alt="">
-	<div>
-		<hgroup>
-			<h2>Cheryl Ma</h2>
-			<h3>Undergraduate Committee Member</h3>
-		</hgroup>
-		<p>TODO
-	</div>
-</section>
-
-<section class=person>
-	<img src=/img/team/srinivasan.jpg alt="">
-	<div>
-		<hgroup>
-			<h2>Ragini Srinivasan</h2>
-			<h3>Undergraduate Committee Member</h3>
-		</hgroup>
-		<p>TODO
-	</div>
-</section>
-
-<section class=person>
-	<img src=/img/team/wilson.jpg alt="">
-	<div>
-		<hgroup>
-			<h2>Maddie Wilson</h2>
-			<h3>Undergraduate Committee Member</h3>
-		</hgroup>
-		<p>TODO
-	</div>
-</section>
-
-<section class=person>
-	<img src=/img/team/leary.jpg alt="">
-	<div>
-		<hgroup>
-			<h2>Grace Leary</h2>
-			<h3>Undergraduate Committee Member</h3>
-		</hgroup>
-		<p>TODO
-	</div>
-</section>
-
-<section class=person>
-	<img src=/img/team/fabris.jpg alt="">
-	<div>
-		<hgroup>
-			<h2>Erin Fabris</h2>
-			<h3>Staff Committee Member</h3>
-		</hgroup>
-		<p>TODO
-	</div>
-</section>
-
-<h2>Professional Staff</h2>
-
-<section class=person>
-	<img src=/img/team/alexander.jpg alt="">
-	<div>
-		<hgroup>
-			<h2>Jessica Alexander</h2>
-			<h3>Grant Coordinator</h3>
-		</hgroup>
-		<p>TODO
-	</div>
-</section>
-
-<section class=person>
-	<img src=/img/team/taylor.jpg alt="">
-	<div>
-		<hgroup>
-			<h2>Kamea Taylor</h2>
-			<h3>Support Staff</h3>
-		</hgroup>
-		<p>TODO
-	</div>
-</section>
-
-<h2>Sustainability Advisors</h2>
-
-<section class=person>
-	<img src=/img/team/katz.jpg alt="">
-	<div>
-		<hgroup>
-			<h2>Nurit Katz</h2>
-			<h3>Chief Sustainability Officer</h3>
-		</hgroup>
-		<p>TODO
-	</div>
-</section>
-
-<section class=person>
-	<img src=/img/team/bentzin.jpg alt="">
-	<div>
-		<hgroup>
-			<h2>Bonny Bentzin</h2>
-			<h3>Deputy Chief Sustainability Officer</h3>
-		</hgroup>
-		<p>TODO
-	</div>
-</section>
+<% for (const cat in locals.team) {%>
+	<h2><%= cat %></h2>
+	<% for (const person of locals.team[cat]) { %>
+		<section class=person>
+			<img src="<%= person.photo %>" alt="">
+			<div>
+				<hgroup>
+					<h2><%= person.name %></h2>
+					<h3><%= person.role %></h3>
+				</hgroup>
+				<p><%= person.bio %>
+			</div>
+		</section>
+	<% } %>
+<% } %>

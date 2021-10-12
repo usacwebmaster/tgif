@@ -1,0 +1,80 @@
+{
+	"Voting Members": [
+		{
+			"name": "Jane Ni",
+			"role": "Committee Chair",
+			"photo": "/img/team/ni.jpg",
+			"bio": "",
+			"email": "jane14ni@gmail.com"
+		},
+		{
+			"name": "Cheryl Ma",
+			"role": "Undergraduate Committee Member",
+			"photo": "/img/team/ma.jpg",
+			"bio": "",
+			"email": "lechuanm@gmail.com"
+		},
+		{
+			"name": "Ragini Srinivasan",
+			"role": "Undergraduate Committee Member",
+			"photo": "/img/team/srinivasan.jpg",
+			"bio": "",
+			"email": "ragini629@ucla.edu"
+		},
+		{
+			"name": "Maddie Wilson",
+			"role": "Undergraduate Committee Member",
+			"photo": "/img/team/wilson.jpg",
+			"bio": "",
+			"email": "maddiewilson@ucla.edu"
+		},
+		{
+			"name": "Grace Leary",
+			"role": "Undergraduate Committee Member",
+			"photo": "/img/team/leary.jpg",
+			"bio": "",
+			"email": "graceleary23@ucla.edu"
+		},
+		{
+			"name": "Erin Fabris",
+			"role": "Staff Committee Member",
+			"photo": "/img/team/fabris.jpg",
+			"bio": "",
+			"email": "efabris@ha.ucla.edu"
+		}
+	],
+
+	"Professional Staff": [
+		{
+			"name": "Jessica Alexander",
+			"role": "Grant Coordinator",
+			"photo": "/img/team/alexander.jpg",
+			"bio": "",
+			"email": "tgif@asucla.ucla.edu"
+		},
+		{
+			"name": "Kamea Taylor",
+			"role": "Support Staff",
+			"photo": "/img/team/taylor.jpg",
+			"bio": "",
+			"email": "tgif@asucla.ucla.edu"
+		}
+	],
+
+	"Sustainability Advisors": [
+		{
+			"name": "Nurit Katz",
+			"role": "Chief Sustainability Officer",
+			"photo": "/img/team/katz.jpg",
+			"bio": "",
+			"email": "sustainability@ucla.edu"
+		},
+		{
+			"name": "Bonny Bentzin",
+			"role": "Deputy Chief Sustainability Officer",
+			"photo": "/img/team/bentzin.jpg",
+			"bio": "",
+			"email": "bbentzin@facnet.ucla.edu"
+		}
+	]
+}
