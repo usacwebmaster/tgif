@@ -1,5 +1,149 @@
 [
 	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Volunteer Appreciation Dinner 2021",
+		"org": "UCLA UniCamp",
+		"amt": 1000,
+		"desc": "UCLA UniCamp will be hosting an appreciation dinner for volunteers and intends to both make the event as green as possible and use it as an opportunity to promote sustainable habits. The appreciation dinner will use biodegradable dining ware, and as an organization that already focuses on student connections to nature, UniCamp will use this event to explicitly educate volunteers on sustainability through informational placards, PowerPoint presentations, and a succulent project."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Sustainable Food Task Force Student Position",
+		"org": "Housing and Dining Sustainability",
+		"amt": 750,
+		"desc": "Housing and Dining Sustainability is creating a stipended student position on The Sustainable Food Task Force, which works to research, promote, and engage the UCLA community with sustainable food. The student will hold an important role in the task force, coordinating and setting agendas, offering a student perspective on projects, and working with other sustainable food work across campus. This position will also be able to impact the student body through education and by increasing the reach and accessibility of the task force across campus."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Reusable Dining Pilot Program",
+		"org": "Sustainagoals/USAC Facilities Commission",
+		"amt": 500,
+		"desc": "The Sustainagoals committee of the Undergraduate Students Association Council Facilities Commission will be launching a pilot program of a reusable dining ware program at Bruin Bowl for the 2021-2022 academic year, in which students will be provided a reusable container, which they will have to return to designated stations within a set time. In this preparatory year, students from the Disabled Student Union and other relevant groups will be asked for guidance and feedback on the program, and these students will be stipended for their work in educating and advising on the project's logistics and accessibility."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Solar Decathlon Application",
+		"org": "Solar Decathlon",
+		"amt": 50,
+		"desc": "Solar Decathlon is a design challenge where students incorporate high-performance building design strategies into curriculum and pursue sustainable building careers. UCLA students will be joining the national challenge and will be working to promote sustainable and eco-friendly housing, and the application fee will be covered by TGIF. These students will learn about solutions to housing and infrastructure issues in Los Angeles, and if the designs and architecture presented by UCLA students are chosen as the winning project, the designs could be implemented in the real world, but with or without a win, the project itself will have huge impacts on the participating students and the culture of sustainability at UCLA."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "True Cost Documentary Screening",
+		"org": "Buy Your Values/USAC Facilities Commission",
+		"amt": 100,
+		"desc": "Buy Your Values is a project of the EJ Now component of the Facilities Commission, and is a year-long campaign to push the UCLA store to adopt higher labor and environmental standards for its apparel licensees, as well as educating the student body about apparel justice issues at UCLA. Buy Your Values will be showing the documentary \"True Cost,\" outlining the conditions within the garment industry and will be discussing its relation to the campaign here at UCLA. The screening cost will be covered by TGIF, and the screening will build awareness and consciousness of our connection as students to the garment industry through apparel purchases at the store and elsewhere, increasing sustainable awareness on campus and among individuals."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Stone Canyon Creek Restoration",
+		"org": "Ecological Restoration Association",
+		"amt": 521.85,
+		"desc": "ERA's Stone Canyon Creek Restoration project aims to organize a collective of UCLA students, faculty, administrators, and community members to reinvigorate and accomplish the habitat restoration of Stone Canyon Creek on UCLA's campus near the Anderson School of Management. For the remainder of fall quarter, they will be hosting habitat restorations in collaboration with The Bay Foundation on the weekends of November 14th, November 21st, and December 4th to remove invasive species from the creek bed including English Ivy and periwinkle. This project will have a high impact as it will engage up to 30 students and community members per weekend in habitat restoration and restore a riparian ecosystem improving the water quality of runoff that passes through Stone Canyon Creek, all while providing a natural habitat on campus for beauty and mental health benefits."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "PATH LA Shelter Volunteering",
+		"org": "Bruin Dine - CPO",
+		"amt": 153.47,
+		"desc": "PATH Cooks is a volunteer program in which volunteer groups cook meals to serve food insecure residents living in PATH's interim housing facilities, and UCLA CPO's Bruin Dine is looking to volunteer with PATH West LA to aid food insecure populations in the LA area by allowing student volunteers to purchase groceries and cook meals for up to 20-30 veterans at a time. Not only do many UCLA students rely on PATH services, but this project is also tied to sustainability as more and more residents of the LA area become at risk of food and housing insecurity due to climate change and its effects. By healing the community's food insecurity, UCLA student volunteers will be working to heal the effects of climate change and advocate for greater sustainability."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Bruin Underwater Robotics",
+		"org": "American Society of Mechanical Engineers (ASME)",
+		"amt": 992.54,
+		"desc": "The BUR-Tripati Collaboration Project is a collaboration between Professor Robert Eagle of UCLA's Tripati Lab and Atmospheric and Oceanic Sciences Department and Bruin Underwater Robotics (BUR), a team belonging to ASME (the American Society of Mechanical Engineers). This project will build and modify the BlueRobotics BlueROV2 into a comprehensive research instrument with sensors for environmental study and will be used by the lab and by undergraduates completing their capstone projects. This instrument will allow students to collect data about our oceans that can contribute to environmental research toward a sustainable future."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Plastic2Food",
+		"org": "Bruin Home Solutions",
+		"amt": 262.56,
+		"desc": "The Bruin Home Solution Plastic2Food project is dedicated to the research of mealworms and their unique ability to consume/digest plastics, specifically testing the mealworm's ability with new plastics and testing the viability of mealworm frass as a fertilizer. If this fungal breakdown and bioreactor can be incorporated into a productive system, then Bruin Home Solutions will aim to focus on diverting styrofoam produced on UCLA campus to this system that can break down these hard-to-recycle plastics. This project will also educate the greater LA community (and eventually on an even larger scale) of the mealworm's potential to solve/help the global waste crisis."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "H2O",
+		"org": "Bruin Home Solutions",
+		"amt": 953.14,
+		"desc": "Bruin Home Solutions will be conducting a Restroom and Irrigation Audit program to collect data to identify where retrofits/replacements of fixtures can save the most water and money. Based on their 2019 Water Audit Report, UCLA can save over a million gallons of water per year with a financial break-even time of three years, and this year, gathering higher quality data will produce a Water Audit Report with actionable recommendations for review by Facilities Management and other stakeholders by the end of the year."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Fair Trade for Finals",
+		"org": "E3: Ecology, Economy, Equity",
+		"amt": 155.51,
+		"desc": "E3 will be handing out Fair Trade products on Bruin Walk during finals week, addressing student stress, and providing vegan and sustainably sourced snacks in Fair Trade bags. The goody bags will also include a survey and a fact sheet to inform our student body about the importance of choosing Fair Trade in the future. Educating and imparting sustainable and Fair Trade shopping habits upon students while simultaneously providing students with nourishing snacks and teas will add to the culture of student wellness and sustainability on campus."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Radiator Optimization",
+		"org": "Bruin Formula Racing",
+		"amt": 998.67,
+		"desc": "Bruin Formula Racing is a student-run technical organization that designs, manufactures, tests, and competes with a formula-style race car, equipping young engineers with the skill set and experience necessary to contribute at the collegiate and professional levels. This year, they are focusing on optimizing the vehicle's radiator design, which will increase engine performance, lower fuel consumption, and decrease carbon emissions. In addition, this research project will teach new members about BFR's focus on the environmental impact of our vehicles. This addition of a focus on environmental impacts on racing vehicles will push the project to consider values and the possibilities of sustainability, which will have lasting impacts on the student engineers and the vehicle racing community as a whole."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Measuring Neighborhood Outdoor Light Pollution in Los Angeles in the Lens of Equity",
+		"org": "SLAGC-URSP",
+		"amt": 500,
+		"desc": "Ahalya Sabaratnam is initiating a study that compares and analyzes outdoor environments in a sample of neighborhoods stratified by socioeconomic characteristics and sharing similar light pollution conditions as measured by satellites as part of the Sustainable LA Grand Challenge program (SLAGC-URSP). This research will provide guidance on the implementation of high-efficiency lighting (LEDs) in a way that is equitable and ecologically sensitive, ensuring the sustainability framework is addressed, and it will contribute to the initiation of a ground-level worldwide map of light pollution by using a 360-degree camera to capture a nighttime view of the UCLA campus and its light pollution."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "JazzReggae Fest",
+		"org": "UCLA Cultural Affairs Commission",
+		"amt": 941.75,
+		"desc": "JazzReggae Fest (JRF) is celebrating three decades of good vibes, jammin' music, and cultural and environmental enrichment with a one-day festival under the Los Angeles sun. Jazz Reggae Fest is growing from its roots in 1986, presenting headliners from the genres of jazz and reggae as well as the styles of music that they inspire. JazzReggae's commitment to sustainability draws national recognition from VH1 and DoSomething.org as one of the top 4 most sustainable music festivals. This event will inspire attendees to lead more eco-friendly lifestyles by the outdoor, sustainable, and holistic atmosphere created at the festival, and they will hopefully leave the festival being more conscious about the products they are disposing of, and the practices they are engaging in that are affecting their immediate environment."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Sustainable Stress Relief Succulent Planting by ESN",
+		"org": "UCLA Environmental Student Network",
+		"amt": 200,
+		"desc": "The Sustainable Succulent Planting Stress Relief Event is an end-of-the-quarter event hosted by the Environmental Student Network where students come and paint small succulent pots and have succulents planted in them to take home. This event will bring together people in the UCLA sustainability community, giving them a chance to bond and come together at the end of a hectic quarter-- creating a sense of togetherness among the sustainability community and environmental science majors. Community is essential to sustainability, and this event builds that while allowing students to destress and connect with nature and plants."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Renewable Natural Gas--Compost",
+		"org": "Renewable Energy Association",
+		"amt": 702.35,
+		"desc": "The student-run Renewable Energy Association's Renewable Natural Gas compost subteam was developed with the ultimate goal of transitioning UCLA from using fertilizer to organic compost for vegetation on campus. To that end, the subteam is working to execute soil quality testing on campus grounds for studying the viability of fertilizer alternatives. For the initial stage of the comparison study (Winter 2022), site application treatments will consist of synthetic fertilizer currently used on campus and organic compost obtained from UCLA's partner facility, Athens. Eventually, REA will introduce biogas effluent, an additional treatment variable, for study in Spring 2022. Through this research, REA will be able to determine whether it would be possible to replace the currently used synthetic fertilizer on UCLA's lawns with biogas effluent or organic compost, and they will encourage UCLA to implement a cradle-to-cradle waste processing system on campus."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Renewable Natural Gas--Waste Processing",
+		"org": "Renewable Energy Association",
+		"amt": 561,
+		"desc": "The Waste Processing arm of the REA's Renewable Natural Gas project designs and conducts waste audits to determine the energy potential of UCLA's waste. To address the lack of a systematic way to track and document waste streams at UCLA, the team developed a comprehensive labeling system for campus waste bins. The system includes a digital map of all waste bins at UCLA, as well as unique IDs and physical tags for each bin. A digital map to get an initial count of waste bins on campus has been created, and tags for waste bins are the first step in providing accurate waste management data to both undergraduates and Facilities Management. The project will streamline waste audit processes for student projects and simultaneously allow for the progression of campus sustainability initiatives involving waste reduction, allowing for students and the school to collaboratively spearhead more directed initiatives to fulfill UC sustainability goals for waste reduction and diversion."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Fall 2021 Funding",
+		"org": "Unravel at UCLA",
+		"amt": 350,
+		"desc": "Unravel at UCLA is a club that focuses on fashion sustainability, textile waste, and fast fashion culture on campus. In order to promote upcycling and sustainable fashion, Unravel will be holding a giveaway of thrifted crewnecks and hoodies that will be embroidered at the UCLA makerspace. They will also be holding a speaker event with Twin Flames, a Female-Founded studio combatting fast fashion. These projects will educate students on fashion and make the entire campus more aware of their impacts, as well as empower students to take action to make a dent in the environmental impact of the fashion industry."
+	},
+	{
 		"quarter": "Spring",
 		"year": 2020,
 		"org": "Office of Sustainability",
