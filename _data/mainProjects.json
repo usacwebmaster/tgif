@@ -1,5 +1,69 @@
 [
 	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "FarmBot",
+		"org": "UCLA Robotic Agriculture Project",
+		"amt": 4088.94,
+		"desc": "UCLA Robotic Agriculture Project is developing an open-source farming robot called a FarmBot, which will be installed in the Healthy Campus Initiative garden. This new technology, built and modified by students interested in sustainable agriculture, promotes small-scale farming, provides healthy produce to the UCLA community, and reduces the environmental impact of food production. Long-term goals of the Robotic Agriculture Project include the eventual deployment of FarmBots in low-income communities to extend accessibility to fresh produce and reduce environmental impacts of food production on a larger scale."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Storage",
+		"org": "HOOLIGAN Theatre Company",
+		"amt": 5441.6,
+		"desc": "HOOLIGAN Theatre Company is a completely student-run theatre company at UCLA, and these students are committed to the sustainability of the organization. The company uses many costumes, props, tools, and supplies each year, and to prevent yearly waste, they store all their materials in off-campus storage. This allows the theater to re-use all materials from year to year, and eventually become totally self-sustaining, not having to buy any new equipment."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "CNI Ambassadors",
+		"org": "The Carbon Neutrality Initiative at UCLA",
+		"amt": 7768.32,
+		"desc": "Carbon Neutrality Initiative hires six CNI Ambassadors each year who will be trained in curriculum surrounding climate science, climate justice, and climate solutions, especially how these topics engage with the University of California. The ambassadors will be stipend to ensure accessibility in the role and compensate the students for their work in creating projects and events that educate the UCLA community and move towards a goal of UC-wide carbon neutrality by 2025."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Biodiesel Project",
+		"org": "The Renewable Energy Association at UCLA",
+		"amt": 2292.85,
+		"desc": "The Renewable Energy Association at UCLA houses the Biodiesel Project, which works to convert UCLA dining hall waste into generating reproducible, high-quality biodiesel in a lab, which would eventually be supplied as a sustainable fuel source. This project provides undergraduates with training and experience in renewable energy fields and also has practical sustainable results of creating long-term alternatives to unrenewable energy on campus."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Climate Justice Forum",
+		"org": "Environmentalists of Color Collective at UCLA",
+		"amt": 10000,
+		"desc": "Environmentalists of Color Collective at UCLA holds a Climate Justice Forum for roughly 150 attendees, which raises awareness about the contributions that people of color have made to the environmental sustainability movement, reframes the definition and values of mainstream environmentalism to be more inclusive of all underrepresented communities, stimulates critical dialogue about environmental racism and injustice issues at UCLA and beyond, and inspires attendees to take action on climate and environmental justice issues through the speaker's organizations and potential volunteer events."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "EV Build",
+		"org": "Bruin Supermilage",
+		"amt": 8208.17,
+		"desc": "Bruin Supermileage builds a hyper-efficient electric vehicle every year to compete in an annual Shell Eco-marathon competition. In the process of building this vehicle from scratch, the project teaches students about energy-efficient vehicle builds and shows that it is possible to make a \"green car\", utilizing sustainable and eco-friendly sources of energy, without compromising on practicality and efficiency. Students will come out of this experience with the skills and experience to make a significant positive impact in the workforce and the future of green vehicles."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Art and Mutual Aid Addressing Environmental (In)action",
+		"org": "The Allied Community Arts Brigade",
+		"amt": 6000,
+		"desc": "The Allied Community Arts Brigade will be hosting a conversation about environmental injustice concerning low-income communities of color in Los Angeles and abroad, and it will include performances from Hip Hop duo Mother Nature Barz, Tongva musicians Kelly Caballero and Jessa Calderon, and Haitian performance artist Ella Turenne, all of whom address social justice issues through their art forms. This event fosters important conversations with Black and Indigenous artists who work around local and global issues of the environment, which will expose students to different experiences and new, critical perspectives."
+	},
+	{
+		"quarter": "Fall",
+		"year": 2021,
+		"name": "Storage",
+		"org": "Bruin Beekeepers",
+		"amt": 1383.75,
+		"desc": "Bruin Beekeepers builds and maintains a network of apiaries at UCLA and the surrounding community for conservation, education, research, and innovation. It offers beekeeper certification training, public education events, and special project and research opportunities. It is run by UCLA staff, faculty, students, and local community members. Members are trained in beekeeping free of cost to manage our beehives. Bruin Beekeepers also houses a lot of equipment in order to be able to fulfill their mission, and want to implement more shelving in their office in order to store equipment and make the space more safe and comfortable. Storage allows for materials to be reused and not repurchased, which allows Bruin Beekeepers to be more sustainable."
+	},
+	{
 		"quarter": "Spring",
 		"year": 2020,
 		"org": "Office of Sustainability",
