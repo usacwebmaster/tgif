@@ -1,5 +1,328 @@
 [
 	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "American Cancer Society on Campus at UCLA",
+		"org": "Relay for Life of UCLA",
+		"desc": "Relay for Life is a 24-hour event at UCLA that brings people together to celebrate the lives of those who have battled cancer, to remember loved ones lost, and to fight back against a disease that takes too much. To lessen Relay for Life's environmental footprint, the American Cancer Society on Campus ensured that they were eco-friendly with products that were bought for the event, such as plates, napkins, cutlery, cups, and trash bags."
+	},
+		{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "COMPAS at UCLA",
+		"org": "From the Fields to your Table",
+		"desc": "This COMPAS project, where students could get fresh fruit on campus and learn about produce origin and the significance of farm workers in providing fruit produce to consumers, opens access to information and educates university students and personnel about the fresh produce that we consume daily. By informing the community about the people, the economics, and the conditions of labor that allow us to enjoy our favorite farm-grown fruits, COMPAS addresses the importance of sustainability practices in farm-derived produce and environmental health. Using fruit as a sustainable food option to incentivize individuals to think about these issues reinforces their mission to reduce environmental impact on the planet while delivering education on the complex interconnections of sustainability from labor practices to environmental health."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "E3 Zero Waste Campaign",
+		"org": "Earth Day Fair Tabling Event",
+		"desc": "The E3 Zero Waste campaign table at the Earth Day Fair focused on all things propagation! E3 discussed how propagation can be used to reduce food waste and taught students how to propagate vegetables such as lettuce, green onions, celery, and potatoes with demonstrations and direct and hands-on tutorials. They also gave out reused jars and containers for students to take home to use to propagate vegetables and allowed students to propagate their very own succulents on-site. Teaching students how to propagate their food can help reduce food waste, packaging waste, and money since regenerating produce decreases the amount of produce you throw away as well as the amount of produce you buy (and the packaging that comes along with it). Teaching students how to actually propagate their vegetables and succulents through hands-on and interactive demonstrations is both an enjoyable and effective way to reduce waste."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "The Green Thumbs",
+		"org": "",
+		"desc": "The Green Thumbs, the stewards of garden plot 30, protect plants from consumption by animals by building a protective barrier around our garden plot. With lots of research into garden protection and hands-on experience with gardening across our team, they determined that a cage-like barrier is an excellent protection for plants, and makes sure that sustainable gardening on campus is safe and successful. By utilizing the garden space at UCLA, The Green Thumbs promote a healthy environment and educate themselves and other UCLA students on the importance of regenerative agriculture."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Unravel at UCLA",
+		"org": "Unravel Website and Fashion Revolution",
+		"desc": "Unravel, a sustainable fashion club, created a website that provides educational information regarding sustainability and environmental justice causes relating to the fashion industry. It highlights several topics ranging from general sustainability tips to opinion pieces in order to bring awareness to a broader scope of sustainability and labor issues. This allows them to reach a wider audience with an interest in sustainability and environmental justice. Through the website, Unravel provides consistent content to share throughout the year that will be promoted as a way to be a reliable educational resource for all students."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Institute of the Environment and Sustainability",
+		"org": "Ocean Acidification Outreach",
+		"desc": "IoES held an event to inform the general public about the effects of climate change, and more specifically ocean acidification, on both humans and the environment. This benefited the campus community by increasing their awareness of climate change effects on natural systems, and how humans will likely be affected. The project's research is aimed at understanding how natural systems will respond to changing environmental conditions and ensuring that the general public is aware of the possible effects is very important. Public awareness of the potential effects of climate change can increase sustainability efforts by the general public as they are informed of the effects of their unsustainable actions."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Team Plastic Policy Implementation for Sustainability Action Research",
+		"org": "Implementing the UCLA Single Use Plastics Policy at Dining locations on the Hill",
+		"desc": "The 2022 SAR Plastic Policy Implementation Team researches alternative utensils for the Hill which align with the UCLA Plastic Policy, looking into the feasibility of replacing the current PLA-based bioplastic utensils offered on the Hill, which are not compliant with the Plastics Policy, with either bamboo or wooden cutlery. With utensils used in a test project this quarter, SAR surveyed students by allowing them to test the utensils and collect their feedback."
+	},
+{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "HOA Native Landscaping",
+		"org": "Sustainable Grand Challenge",
+		"amt": 356.97,
+		"desc": "HOA Native Landscaping spent time this quarter transitioning the clubhouse located at Colina Way with native plants from Theodore Payne Nursery (a nonprofit in SouthernvCalifornia that helps to propagate the transition to native landscaping). The clubhouse serves as a meeting spot for all the UCLA faculty members living at the HOA, making it a vital spot to portray the success of a pilot project in the area, making it possible to further the discussion about the benefits of native plants and persuade people to not grow exotic plants in their front yard."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Coastalong Music and Sustainability Festival",
+		"org": "",
+		"amt": 1000,
+		"desc": "Coastalong is UCLA’s only bike-powered, student-produced festival and plans to be held in person on Saturday, May 7, 2022, at Sunset Canyon Recreation Center. A six-hour outdoor event, which features bike generators, student-run groups and off-campus organizations, several student bands, and a headliner, produces energy for speakers and performers via pedaling stationary bike generators. This event spreads sustainable practices, exemplifies UCLA students’ dedication to reducing the school’s carbon footprint, fosters student leadership in renewable energy, and creates excitement around leading a more sustainable lifestyle."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Stormwater Student Engagement",
+		"org": "SLA GC URSP",
+		"amt": 200,
+		"desc": "A student project in the Sustainable LA Grand Challenge focuses on stormwater management, an issue that we see very visibly on-campus, with flooding occurring throughout several locations on campus. To assess student interest and knowledge on the subject, the student created a robust survey, so as to better implement BMPs (best management practices) and green infrastructure on campus. BMPs and green infrastructure should not only make stormwater management more sustainable but also enhance student living, thus, the survey aims to gauge and understand to what extent students care or know of the issue, as well as understand areas of improvement. The data collected will then be presented to UCLA stakeholders the need to implement more BMPs/green infrastructure on-campus as a sustainability issue that holds much potential for student engagement."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Women and the Environment Workshop",
+		"org": "IGNITE at UCLA",
+		"amt": 178,
+		"desc": "IGNITE is hosting a presentation about sustainability and its intersection with minority groups such as women and BIPOC, at which people will also be exposed to vegan food and the variety and positive impact that maintaining this diet can have on health and society. Attendants will be encouraged to incorporate sustainable practices into their daily lives, and members will be encouraged to spread this information to their friends and others on campus."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "LBSA Sustainability Initiative",
+		"org": "Latin Business Student Association",
+		"amt": 787.50,
+		"desc": "The Latin Business Student Association (LBSA) intends to increase Latine and POC presentation in sustainability and environmental justice spaces that exist within the corporate world. At this event, LBSA Board members that have been a part of sustainability and environmental clubs across campus will be presenting on the topic of sustainability. Specifically, with regards to how it can improve communities of color and environmental injustice that has occurred in communities that many members and interns are apart of. There will be breakout sessions where POC students are connected with professional opportunities in sustainability, and share business internships and job opportunities that revolve around sustainability that members can get involved with."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Fair Trade for Finals",
+		"org": "E3: Ecology, Economy, Equity",
+		"amt": 135.88,
+		"desc": "E3 handed out Fair Trade products on Bruin Walk during finals week, addressing student stress, and providing vegan and sustainably sourced snacks in Fair Trade bags. The goody bags included a survey and a fact sheet to inform our student body about the importance of choosing Fair Trade in the future. Educating and imparting sustainable and Fair Trade shopping habits upon students while simultaneously providing students with nourishing snacks and teas adds to the culture of student wellness and sustainability on campus."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Promoting Sustainability in Medicine through AI",
+		"org": "",
+		"amt": 250,
+		"desc": "This student project focuses on the more than 5.9 million tons of medical waste that U.S. hospitals produce each year, much of which is hazardous and/or single-use material. To combat this, the student developed a machine-learning model that can predict sepsis in hospital patients, which could allow for earlier detection. Early detection of sepsis can reduce medical waste significantly since it is highly resource-intensive to treat sepsis at a later stage. The project was presented at the AIMed Global Summit in San Francisco, CA to show that AI can be used to promote sustainability in medicine, a field where it is often overlooked."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "CPR/First Aid at UCLA - SuperCPR",
+		"org": "SWC CPR/First Aid at UCLA",
+		"amt": 210.08,
+		"desc": "Every Spring Quarter, the UCLA CPR and First Aid program puts on “SuperCPR,” its largest American Heart Association certification class of the year and certifies over 100 undergraduates living on the Hill for free in its continued mission to expand emergency education beyond just health care workers while increasing accessibility of certification classes. All necessary item purchases at this event will be sustainable and compostable."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Fair Trade for Final",
+		"org": "E3: Ecology, Economy, Equity",
+		"amt": 107.28,
+		"desc": "E3 handed out Fair Trade products on Bruin Walk during finals week, addressing student stress, and providing vegan and sustainably sourced snacks in Fair Trade bags. The goody bags included a survey and a fact sheet to inform our student body about the importance of choosing Fair Trade in the future. Educating and imparting sustainable and Fair Trade shopping habits upon students while simultaneously providing students with nourishing snacks and teas adds to the culture of student wellness and sustainability on campus."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Foods of Afro-Latin America",
+		"org": "Afro-Salvadorian Vegan Chef Event: Afro-Latinx Connection de UCLA",
+		"amt": 1000,
+		"desc": "The Foods of Afro-Latin America Series is a ALC program that addresses the historical context and exclusion of African/Black peoples in Latin American cuisines and cultures. The purpose of the program is to create and offer a space for the student body and broader UCLA community in celebrating, experiencing, and exploring Afro-Latin culture through cuisine and its impact on global culture. ALC hosted an Afro-Salvadoran vegan chef that catered for 20-25 students and gave a presentation on the cultural and gastronomic contributions of Black/African peoples in the Salvadorian dishes of Sopa de pata(mondongo y pulla; soup based dish) and Fresco de Chal(drink/beverage)."
+	},
+		{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "A Green DM",
+		"org": "Pediatric Aids Coalition",
+		"amt": 1000,
+		"desc": "Dance Marathon at UCLA is a formerly 26-, and now 13-hour dance-a-thon in which Bruins fundraise money to finance direct outreach programs and fund research for a treatment and cure, as well as raise awareness to combat stigma surrounding HIV/AIDS. This year, Dance Marathon returned in-person for the first time since 2019. Given the three year gap, PAC essentially had to start from scratch in terms of relevant decorations, catering items, COVID compliant items, etc. In an effort to reduce wastefulness, PAC rented a storage locker for the next year so that they can reuse many of the items used for Dance Marathon this year."
+	},
+	
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Speaker Panel: Watch Your Step! Assessing Personal Carbon Footprint",
+		"org": "Carbon Neutrality Initiative Ambassador Program",
+		"amt": 1000,
+		"desc": "To promote UCLA’s Carbon Neutrality Initiative, the CNI ambassadors held an in-person speaker panel in week eight of the Winter quarter. Titled, “Watch Your Step! Assessing Personal Carbon Footprint,” the panel focused on topics including low-carbon transportation on campus, sustainable eating habits, and carbon footprint assessment. Professor Jennifer Jay from the department of Civil and Environmental Engineering, nutritionist Carole Barolotto from UCLA Dining Services, and student organization leaders were able to share their experience and knowledge. The topics focused on the daily life of students and demonstrated how little things can create a huge impact on their personal carbon footprint, showing that by living a sustainable lifestyle, everyone can contribute to UCLA’s goal for net-zero emission."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Poplinen Speaker Event",
+		"org": "Unravel at UCLA",
+		"amt": 100,
+		"desc": "Winter quarter, Unravel hosted Poplinen CEO Desiree Buchanan for a conversation about circularity, accessibility and representation, and consumerism. Having Poplinen speakers and pieces on our campus adds a layer of equity and climate justice to everyday discussions about fashion. Additionally, events like these have been the gateway to internships and job opportunities at Poplinen. These events spark inspiration for members to pursue their own projects and careers in sustainable fashion. Desiree’s story is one of community-building and sustained “giving back” to her surrounding network, truly representing the values of UCLA students and acting as a reproducible model for success in a frequently classist, racist, and exclusionary industry."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Energy Reduction",
+		"org": "UCLA Sustainability Action Research",
+		"amt": 700.15,
+		"desc": "The Sustainability Action Research (SAR) Energy Team will focus on energy conservation. UCLA has a goal of 2% annual energy use reduction and 100% clean energy by 2025 and LA county just recently passed a regulation to convert homes in unincorporated areas of the county to 100% renewable energy from 50% by October 2022. Making energy efficient infrastructure is extremely important to reduce the overall carbon footprint of UCLA and the world beyond. The SAR Energy Team will be collecting, calculating, and analyzing building data to see where energy use can be reduced and create a guide to meet UCLA’s 2025 energy goals. The Team will also run a behavioral campaign to influence student behaviors on campus."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "UCLA Wind Project",
+		"org": "Renewable Energy Association",
+		"amt": 959,
+		"desc": "The Wind Project at UCLA is a technical project hosted under the Engineering school whose purpose is to model, test, and fabricate a wind turbine and take it to compete in a Department of Energy hosted tournament in the spring. Members gain skills and learn about renewable energy through hands-on experience, demonstrating how it can be used to drive the worldwide energy demand going forward. The team will compete in the 2023 Collegiate Wind Competition, and will build a prototype by the end of the year."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "The Data Grid",
+		"org": "Bruin Home Solutions",
+		"amt": 98.55,
+		"desc": "The Data Grid is a free and open source database creation, data collection, and data management platform for environmental auditing at UCLA. The goal is to form a coordinated and united push to develop an impartial full picture of campus resource usage, identify areas of improvement, and drive change at UCLA through UCLA Facilities Management and hopefully at some point drive municipal or national policy through data. The platform allows organizations to upload their data to their database, manage auditors, and view the data they have uploaded. This way, environmental data can be easily standardized within and across organizations. The platform is accessible to everyone on the internet at www.thedatagrid.org, a web server hosting the code and making it accessible to UCLA and everyone on the internet."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Zero Waste Project",
+		"org": "EEB 183 Students for the Office of Sustainability",
+		"amt": 500,
+		"desc": "In a comprehensive assessment of students and faculty of UCLA, the mission of this project is to address first the needs of individuals of all demographics when considering potential developments of zero-waste bulk stores on campus. The final product will include a multi-layered map that displays the public transit lines around UCLA, the average income levels of neighborhoods around LA county, the location and distance of zero-waste bulk stores, and average pricing of certain plastic-free essential goods. A survey will determine if the sustainable bulk store project on the UCLA campus would be attainable and beneficial to the university community and surrounding neighborhood. Based on the data collected from surveying the student body and faculty of UCLA, we hope to identify the needs of the UCLA community, barriers to zero-waste implementation to these communities, and general recommendations for accessible plastic-free options to our community."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Think Outside the Landfill Campaign",
+		"org": "UCLA Facilities Management - Department of Custodial & Grounds",
+		"amt": 832.02,
+		"desc": "UCLA Zero Waste is launching the campus-wide Think Outside the Landfill (TOTL) education and outreach campaign, which promotes waste reduction and landfill diversion. To promote this campaign, the Zero Waste Ambassadors will be hosting a series of weekly challenges for the campus community. Each week, from Week 7 to Week 9 of Winter Quarter and Week 3 to 6 of Spring Quarter, there will be a weekly theme and a list of waste-reduction/diversion challenges for participants to complete. Completing tasks will result in entries to win the weekly prize corresponding to the week’s theme. This challenge series will encourage participants to make sustainable changes to their daily lives and get people excited about reducing waste."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Fair Trade for Finals",
+		"org": "E3 Fair Trade",
+		"amt": 131.88,
+		"desc": "E3 handed out Fair Trade products on Bruin Walk during finals week, addressing student stress, and providing vegan and sustainably sourced snacks in Fair Trade bags. The goody bags included a survey and a fact sheet to inform our student body about the importance of choosing Fair Trade in the future. Educating and imparting sustainable and Fair Trade shopping habits upon students while simultaneously providing students with nourishing snacks and teas will add to the culture of student wellness and sustainability on campus."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Plastic2Food",
+		"org": "Bruin Home Solutions",
+		"amt": 96.41,
+		"desc": "The Bruin Home Solution Plastic2Food project is dedicated to the research of mealworms and their unique ability to consume/digest plastics, specifically testing the mealworm’s ability with new plastics and testing the viability of mealworm frass as a fertilizer. If this fungal breakdown and bioreactor can be incorporated into a productive system, then Bruin Home Solutions will aim to focus on diverting styrofoam produced on UCLA campus to this system that can break down these hard-to-recycle plastics. This project will also educate the greater LA community (and eventually on an even larger scale) of the mealworm’s potential to solve/help the global waste crisis."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "The Next Centennial",
+		"org": "Carbon Neutrality Initiative",
+		"amt": 1000,
+		"desc": "Carbon Neutrality Initiative is hosting “The Next Centennial,” a commemoration of UCLA’s 100 year milestone. This project engages the campus community to imagine an innovative, equitable, and sustainable next 100 years. Through chalkboard structures and supplemental video material, they facilitate collective visioning that applies participatory action research principles and harnesses the power of community and placemaking.With five chalk-wall boxes around campus at the beginning of Spring quarter, there will be themes of climate + energy, community (EDIJ), health, culture, and innovation."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Plastic2Food",
+		"org": "Clean Consulting",
+		"amt": 452.65,
+		"desc": "Working with Bruin Home Solution, Clean Consulting’s Plastic2Food project is dedicated to the research of mealworms and their unique ability to consume/digest plastics, specifically testing the mealworm’s ability with new plastics and testing the viability of mealworm frass as a fertilizer. If this fungal breakdown and bioreactor can be incorporated into a productive system, then Bruin Home Solutions will aim to focus on diverting styrofoam produced on UCLA campus to this system that can break down these hard-to-recycle plastics. This project will also educate the greater LA community (and eventually on an even larger scale) of the mealworm’s potential to solve/help the global waste crisis."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Coastalong Sustainability and Music Festival",
+		"org": "Coastalong",
+		"amt": 1000,
+		"desc": "Coastalong is UCLA’s only bike-powered, student-produced festival and plans to be held in person on Saturday, May 7, 2022 at Sunset Canyon Recreation Center. A six-hour outdoor event, which features bike generators, student-run groups and off-campus organizations, several student bands, and a headliner, produces energy for speakers and performers via pedaling stationary bike generators. This event spreads sustainable practices, exemplifies UCLA students’ dedication to reducing the school’s carbon footprint, fosters student leadership in renewable energy, and creates excitement around leading a more sustainable lifestyle."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "H2O",
+		"org": "Bruin Home Solutions",
+		"amt": 796.87,
+		"desc": "Bruin Home Solutions will be conducting a Restroom and Irrigation Audit program to collect data to identify where retrofits/replacements of fixtures can save the most water and money. Based on their 2019 Water Audit Report, UCLA can save over a million gallons of water per year with a financial break-even time of three years, and this year, gathering higher quality data will produce a Water Audit Report with actionable recommendations for review by Facilities Management and other stakeholders by the end of the year."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Sustainability Action Research Food Waste and Food Recovery Survey",
+		"org": "Sustainability Action Research",
+		"amt": 1000,
+		"desc": "2022’s SAR Food Recovery team is partnering with UCLA Dining Associate Director Charles Wilcots to curate targeted recommendations on reducing food waste and increasing food recovery according to the sustainable food framework set by the UC Policy on Sustainable Practices. They are conducting an original survey & longitudinal diary study to 1. quantify food waste across dining facilities 2. understand barriers to food waste & recovery and 3. understand student perception of effective marketing material."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Alternative Breaks Monterey Service Trip",
+		"org": "Alternative Breaks",
+		"amt": 518,
+		"desc": "Over spring break, a group of 12 students traveled to the Channel Islands and Monterey, California through Alternative Breaks to volunteer with Channel Islands Restoration and multiple conservation and environmental justice organizations in Monterey during the week. This trip educated participants on environmental justice issues and allowed them to reflect on continuing this service into our own community, all while getting hands on experiencing and eating an entirely vegetarian diet."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Voting Rights Plàtica(Conversation) and Panel",
+		"org": "Afro-Latinx Connection de UCLA",
+		"amt": 400,
+		"desc": "Afro-Latinx Connection de UCLA hosted a Voting Rights Plàtica(Conversation) and Panel to educate students on voting and environmental policies, while empowering them to have a positive influence on their communities in relation to environmental and socio-political equity. The speakers presented on key historical events and barriers that have prohibited Black and Brown communities from having the resources, support, and agency, as well as examining what voting rights mean for Black and Brown communities in relation to environmental justice."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Evaluating the Sustainability of Non-Fungible Token Deals at UCLA",
+		"org": "Sustainability Action Research",
+		"amt": 1000,
+		"desc": "This SAR team is evaluating the environmental and social effects of non-fungible tokens and will be advising UCLA stakeholders and organizations on understanding the sustainability impacts of NFT proposals. As the use of NFTs expands into new spaces (including restaurants and airbnbs) and as more and more industries embrace NFT technology at a rapid rate, there is a significant lack of attention to sustainability, energy consumption, and social impact of NFTs and cryptocurrency. The team will research how NFTs may impact UCLA’s sustainability goals and policies within the 2016 Carbon Neutrality Plan, 2021 Sustainability Plan, and 2018 UC Trademark Licensing Code of Conduct by researching opportunities for sustainable growth, conducting surveys and interviews, analyzing current NFT deals, and identifying prospective models for UCLA’s entry into NFT collaborations."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Sustainable Fashion Brand Project",
+		"org": "Business in Entertainment Association at UCLA",
+		"amt": 1000,
+		"desc": "The Fashion Committee of Business in Entertainment Association will work to create a sustainable fashion brand. The project will be focused on sustainable fashion and using recycled materials. We will have a virtual showcase at the end. By educating fashion committee members on sustainable fashion, this project can help fashion committee members learn and gain experience in design merchandising, PR/marketing, social media, and entrepreneurship to advance the UCLA community in sustainability."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Coastalong Music and Sustainability Festival",
+		"org": "Coastalong",
+		"amt": 1000,
+		"desc": "Coastalong is UCLA’s only bike-powered, student-produced festival and plans to be held in person on Saturday, May 7, 2022 at Sunset Canyon Recreation Center. A six-hour outdoor event, which features bike generators, student-run groups and off-campus organizations, several student bands, and a headliner, produces energy for speakers and performers via pedaling stationary bike generators. This event spreads sustainable practices, exemplifies UCLA students’ dedication to reducing the school’s carbon footprint, fosters student leadership in renewable energy, and creates excitement around leading a more sustainable lifestyle."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "The Next Centennial",
+		"org": "Carbon Neutrality Initiative at UCLA",
+		"amt": 627.88,
+		"desc": "Carbon Neutrality Initiative is hosting “The Next Centennial,” a commemoration of UCLA’s 100 year milestone. This project engages the campus community to imagine an innovative, equitable, and sustainable next 100 years. Through chalkboard structures and supplemental video material, they facilitate collective visioning that applies participatory action research principles and harnesses the power of community and placemaking.With five chalk-wall boxes around campus at the beginning of Spring quarter, there will be themes of climate + energy, community (EDIJ), health, culture, and innovation."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Earth Month 2022",
+		"org": "E3: Ecology, Economy, Equity",
+		"amt": 624.56,
+		"desc": "The Earth Month campaign engages the UCLA student body every April with events about environmentalism and activism. This year, Earth Month is planning to hold four events: Earth Day Fair, Food Systems Speaker Panel, Free Produce Fair, and Sustainable Art Competition. With our overarching theme of food systems, this campaign hopes to spread awareness about important environmental and social issues related to food."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Water Warriors Film Screening by ACWA at UCLA and ECC",
+		"org": "ACWA at UCLA",
+		"amt": 600,
+		"desc": "ACWA will be screening Water Warriors, a movie about a Canadian community’s fight to protect their water. The film explores a multicultural group of activists including members of the Mi’kmaq Elsipogtog First Nation, Acadians, and white anglophone families in their resistance against natural gas drilling that could harm their water supply and way of life. Access Clean Water Anywhere at UCLA is working with the Environmentalists of Color Collective to bring to light these problems and educate the campus community about the intersections between clean water, environmental justice, and Indigenous water rights. This event will educate and inspire the audience through a movie screening and subsequent question and answer discussion with one of the water warriors depicted in the film."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Destressing with ROOTS",
+		"org": "ROOTS",
+		"amt": 167,
+		"desc": "ROOTS will be hosting an event at the Botanical Gardens and to have conversations about environmental justice and sustainability. They will be planting succulents and painting pots, in order to create a space for learning while also embracing everyone's creative potential. This project benefits the campus community because the event will create a space to learn about environmental justice while also supporting mental wellness."
+	},
+	
+	{
 		"quarter": "Fall",
 		"year": 2021,
 		"name": "Volunteer Appreciation Dinner 2021",

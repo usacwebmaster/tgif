@@ -14,9 +14,11 @@ title: The Team
 			<div>
 				<hgroup>
 					<h2><%= person.name %></h2>
-					<h3><%= person.role %></h3>
+					<h3><%= person.role %> | <span><a href =<%= person.email %>><person.phone>
+Email</a></span></h3>
 				</hgroup>
 				<p><%= person.bio %>
+				
 			</div>
 		</section>
 	<% } %>

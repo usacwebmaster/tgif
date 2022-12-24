@@ -1,5 +1,154 @@
 [
 	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Developing a Weed Management Plan to Support Habitat Restoration",
+		"org": "Sage Hill at UCLA",
+		"amt": 868.49,
+		"desc": "Sage Hill is a 3.5-acre ecological site at UCLA that is home to native California coastal sage scrub, grassland, oak woodland, and riparian habitat. It serves as a natural space where students can gain hands-on experience in biology, ecology, geography, and more. Currently, the presence of many non-native species may be limiting the quality of this habitat, so the IoES practicum team worked to create an invasive species management plan which would help restore its native biodiversity. The presence of non-native species that are considered invasive or fire hazards occurs across the Los Angeles region and has the potential to undermine gains made through habitat restoration efforts.The research completed on weed management for Sage Hill is important for informing future restoration and research activities at UCLA and across all of Los Angeles, and the removal of abandoned debris on the hill could potentially promote the growth and recovery of native species already present."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Peer Counseling",
+		"org": "Samahang Pilipino Education and Retention",
+		"amt": 1500,
+		"desc": "Samahang Pilipino Education and Retention (SPEAR) hosted a week-long inter-networking event, with 5-6 Pilipinx panelists each day who covered topics and careers in the categories of health and science, business and entrepreneurship, education and policy, math, engineering and technology, and art and entertainment. In collaboration with the entire student retention center, this event spotlighted and encouraged active use of the shared test bank, food closet, and sustainable products provided through Good Clothes, Good People, and worked to develop and cultivate student leaders, striving to create a supportive community."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Nigerian Student Coalition Conference",
+		"org": "Nigerian Student Association",
+		"amt": 677.99,
+		"desc": "The Nigerian Student Coalition Conference (NSCC), with a theme this year of “Naija Season: Certified Legacy Builders,'' explored the unique and shared experiences of Nigerians, celebrated diverse culture, promoted academic success, and educated students about important issues facing the Nigerian and Afrikan Diaspora. This conference offered educational workshops, seminars, and hearing multiple guest speakers/panelists share their stories and experiences as Nigerians today. Sustainability was integrated throughout the conference, including using compostable/biodegradable packaging for food, promoting entrepreneurship, and supporting small businesses."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Sembrando Semillas: Sprouting the Next Generation of Healthcare Professional",
+		"org": "Latinx/Chicanx for Community Medicine",
+		"amt": 788,
+		"desc": "Latinx/Chicanx for Community Medicine's (LCCM) 18th annual conference titled Sembrando Semillas: Sprouting the Next Generation of Healthcare Professionals, was created to make workshops, speakers and a resource fair available at no cost to attendees to encourage, inspire and educate underrepresented high school, community college, and undergraduate students about a healthcare career. Attendees received seeds, and recycled notebooks and pens to facilitate participation and to educate about sustainability."
+	},
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Mecha de UCLA Latinx Graduation",
+		"desc": "Latinx Graduation is a ceremony for graduating students that self-identify as Chicanx/Latinx and their families. To decrease waste, the ceremony removed the balloon drop and instead bought flower petals and a bubble machine instead of confetti and glitter to be able to celebrate and create a welcoming space and special environment for Chicanx and Latinx students to be celebrated and seen, while being mindful of waste and footprint."
+	},
+	
+	{
+		"quarter": "Spring",
+		"year": 2022,
+		"name": "Sembrando Semillas: Sprouting the Next Generation of Healthcare Professional",
+		"org": "Latinx/Chicanx for Community Medicine",
+		"amt": 788,
+		"desc": "Latinx/Chicanx for Community Medicine's (LCCM) 18th annual conference titled Sembrando Semillas: Sprouting the Next Generation of Healthcare Professionals, was created to make workshops, speakers and a resource fair available at no cost to attendees to encourage, inspire and educate underrepresented high school, community college, and undergraduate students about a healthcare career. Attendees received seeds, and recycled notebooks and pens to facilitate participation and to educate about sustainability."
+	},
+		
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Bruins Bring Their Own - Refillery Pilot",
+		"org": "UCLA Facilities Management",
+		"amt": 5763,
+		"desc": "The Bruins Bring Their Own - Refillery Pilot provides students with free bulk laundry liquid, dishwashing liquid, and personal care supplies such as shampoo, conditioner, and body wash. Students bring reusable containers to refill these items. This project is currently in the pilot stage: it will occur once per month at a pop-up tent on the Hill and once per month at a pop-up location rotating between Bruin Plaza and one other on-campus location. The objective of the project is to increase access to zero waste options by eliminating cost and convenience barriers."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "IDEA Hacks Hardware Hackathon",
+		"org": "UCLA IEEE",
+		"amt": 2642.42,
+		"desc": "IDEA Hacks is the largest hardware-focused hackathon in the West Coast and the only one of its kind at UCLA. Traditionally attended by over 300 students, the overall purpose of IDEA Hacks is to help students develop hardware projects by providing them with mentorship, parts, and workshops, all free of charge. This year’s hackathon theme is “The Great Outdoors,” which is about finding ways to enhance your experience outside. Innovations for the great outdoors have the potential to change the way students embrace the greater world around us. This event encourages the development of solutions toward achieving the world’s sustainability using a combination of in-classroom knowledge, real-world experience, technological trends, and collective team strengths."
+	},
+		{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Bruin Supermileage",
+		"org": "",
+		"amt": 4418.15,
+		"desc": "Bruin Supermileage builds a hyper-efficient electric vehicle every year to compete in an annual Shell Eco-marathon competition. In the process of building this vehicle from scratch, the project teaches students about energy-efficient vehicle builds and shows that it is possible to make a “green car”, utilizing sustainable and eco-friendly sources of energy, without compromising on practicality and efficiency. Students will come out of this experience with the skills and experience to make a significant positive impact in the workforce and the future of green vehicles."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "UCLA’s Institute of the Environment and Sustainability",
+		"org": "Extreme Heat PSA Campaign",
+		"amt": 9262.00,
+		"desc": "This project aims to provide resources to mitigate the impacts of extreme heat in Los Angeles County. As a result of human-caused climate change and the steady heating of Los Angeles, by mid-century, LA County is projected to experience upward of 25 extreme heat days (days above 94.4°F) per year, compared with 5 extreme heat days per year from 1961-1990. Many community members are very vulnerable to the threat of extreme heat, especially BIPOC and low-income residents. To support LA County through this year’s extreme heat season (May-September), LARC will launch a campaign to share resources and actionable strategies to build community climate resilience. TGIF funding will enable LARC to hire 3 students: one to gather extreme heat research and produce materials for distribution, one to organize the campaign logistics and public interface, and one to run an impact evaluation on the project."
+	},
+	
+			{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Hip Hop Congress, Cultural Affairs Commision",
+		"org": "Fashion Show",
+		"amt": 9600,
+		"desc": "Hip Hop Congress’s annual fashion show is an avant-garde display of both the innovative fashion of upcoming designers and the raw talent of the music industry’s fresh, new faces, featuring artists from various backgrounds who share a passion for art activism ranging from LGBTQ+ rights, environmental/sustainability justice, and BIPOC movements. The current theme for 2022 highlights the use of science on diversifying hip hop sounds through the lens of Black artists. In the past two years, the fashions show has been more intentional in showcasing local brands, BIPOC brands, and has doubled the amount of eco-friendly brands. Creating this space for the audience has allowed them to be introduced to alternatives to fast fashion; the theme of evolution will demonstrate how, despite the growth of fast fashion over time, there is affordable, sustainable clothes out there."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Design Create Solar(DCS) and Bruin Home Solutions (BHS)",
+		"org": "Mobile Autonomous Solar Hydroponic Garden",
+		"amt": 4573.10,
+		"desc": "The Mobile Autonomous Solar Hydroponic Garden project is an off-grid, mobile, solar powered hydroponics system capable of growing 18 small plants. The garden will be mobile, as it is housed on an upcycled cargo tricycle provided by Semel HCI. Hydroponic gardens use flowing water rather than soil to grow plants. This is an efficient way of growing plants in space limited circumstances. Adding the solar component allows this garden to function without additional power input. The garden will act as a live example of sustainable technology, and it will also sustainably grow produce which will be donated to the UCLA food pantry, which contributes to UCLA’s overarching sustainability goals of renewable energy and locally sourced food."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Sustainability in Cultures Art Gallery",
+		"org": "Zero Waste Ambassadors",
+		"amt": 3135.60,
+		"desc": "Sustainability in Cultures Art Gallery is a week-long art gallery and gallery opening event in the Kerckhoff Gallery during UCLA’s annual Waste Awareness Week from April 3rd to April 10th. The art gallery will highlight themes of sustainability in various cultures to spark conversations about diversity and representation within sustainability. This art exhibit will expose the campus community to diverse perspectives and decenter whiteness in the narrative of sustainability. The gallery will educate students about various cultures and inspire new approaches of incorporating sustainability in their lives. The objective is to create a space where visitors can learn about a culture new to them or recognize their own cultures within the exhibit. This will increase the platform and hold space for underrepresented groups while fostering more diverse perspectives in sustainability."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "LA Hacks",
+		"org": "",
+		"amt": 995.28,
+		"desc": "LA Hacks is a free annual student-run hackathon event, and is the largest hackathon in southern California. In the past, we have brought together over 1,000 university students and company representatives for three days at UCLA's Pauley Pavilion where teams of students have 36 hours to build software and hardware solutions for a variety of global issues. LA Hacks will be a fully sustainable event this year, with compostable utensils, reusable water bottles, and sustainable prizes, all of which will ensure the event is zero waste and inspires sustainable innovation. The event also includes a track on World Wide Wellness, which challenges hackers to come up with project ideas that will solve pressing issues related to the environment and society as a whole. Given that the technological boom has been commonly associated with rising levels of pollution and waste, this track was created to inspire hackers to counteract this stigma and use technology for sustainable social good."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "LEED/TRUE Certification",
+		"org": "Clean Consulting at UCLA",
+		"amt": 4900,
+		"desc": "Clean Consulting helps members get trained through the LEED/TRUE certification program in how to be more sustainable and run sustainable practices. With this new skill, members can contribute more to environmental projects as they now have the relevant tools and expertise, and can broaden students’ horizons on how to combat environmental issues UCLA is facing."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "35th JazzReggae Festival",
+		"org": "Cultural Affairs Commission",
+		"amt": 8548,
+		"desc": "JazzReggae Fest (JRF) is celebrating three decades of good vibes, jammin’ music, and cultural and environmental enrichment with a one-day festival under the Los Angeles sun. Jazz Reggae Fest is growing from its roots in 1986, presenting headliners from the genres of jazz and reggae as well as the styles of music that they inspire. JazzReggae’s commitment to sustainability draws national recognition from VH1 and DoSomething.org as one of the top 4 most sustainable music festivals. This event will inspire attendees to lead more eco-friendly lifestyles by the outdoor, sustainable, and holistic atmosphere created at the festival, and they will hopefully leave the festival being more conscious about the products they are disposing of, and the practices they are engaging in that are affecting their immediate environment."
+	},
+	
+	
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "3rd Annual Southeast Asian Students for OrgaNizing (SEASON) Conference",
+		"org": "Asian Pacific Coalition",
+		"amt": 744,
+		"desc": "The 3rd annual Southeast Asian Students for OrgaNizing (SEASON) Conference is a collaborative effort by Southeast Asian communities like the Asian Pacific Coalition, Association of Hmong Students, Samahang Pilipino, and the Vietnamese Student Union and it is a 3-day conference with workshops, panels, speakers, and coalition-building activities intended to provide a space for Southeast Asian Americans (SEAAs) identifying students to strategize campus based actions and effectively advocate for the rights of the underrepresented. With the growing concerns about the climate and the rise of minority voices in representative spaces, we hope to develop students critically aware of their roles in their culture as well as in environmental justice. Asian Pacific Environmental Network (APEN) and its State Organizer, Seng So will be speaking at the event on environmental justice and its intersections with our identities as SEAAs, and the ways student activists can get involved."
+	},
+	{
+		"quarter": "Winter",
+		"year": 2022,
+		"name": "Coastalong Sustainability and Music Festival",
+		"org": "",
+		"amt": 10000,
+		"desc": "Coastalong is UCLA’s only bike-powered, student-produced festival and plans to be held in person on Saturday, May 7, 2022 at Sunset Canyon Recreation Center. A six-hour outdoor event, which features bike generators, student-run groups and off-campus organizations, several student bands, and a headliner, produces energy for speakers and performers via pedaling stationary bike generators. This event spreads sustainable practices, exemplifies UCLA students’ dedication to reducing the school’s carbon footprint, fosters student leadership in renewable energy, and creates excitement around leading a more sustainable lifestyle."
+	},
+
+	
+	{
 		"quarter": "Fall",
 		"year": 2021,
 		"name": "FarmBot",
