@@ -4,6 +4,7 @@
 		"year": 2022,
 		"name": "American Cancer Society on Campus at UCLA",
 		"org": "Relay for Life of UCLA",
+		"amt": 1000,
 		"desc": "Relay for Life is a 24-hour event at UCLA that brings people together to celebrate the lives of those who have battled cancer, to remember loved ones lost, and to fight back against a disease that takes too much. To lessen Relay for Life's environmental footprint, the American Cancer Society on Campus ensured that they were eco-friendly with products that were bought for the event, such as plates, napkins, cutlery, cups, and trash bags."
 	},
 		{
@@ -11,6 +12,7 @@
 		"year": 2022,
 		"name": "COMPAS at UCLA",
 		"org": "From the Fields to your Table",
+		"amt": 875.29,
 		"desc": "This COMPAS project, where students could get fresh fruit on campus and learn about produce origin and the significance of farm workers in providing fruit produce to consumers, opens access to information and educates university students and personnel about the fresh produce that we consume daily. By informing the community about the people, the economics, and the conditions of labor that allow us to enjoy our favorite farm-grown fruits, COMPAS addresses the importance of sustainability practices in farm-derived produce and environmental health. Using fruit as a sustainable food option to incentivize individuals to think about these issues reinforces their mission to reduce environmental impact on the planet while delivering education on the complex interconnections of sustainability from labor practices to environmental health."
 	},
 	{
@@ -18,6 +20,7 @@
 		"year": 2022,
 		"name": "E3 Zero Waste Campaign",
 		"org": "Earth Day Fair Tabling Event",
+		"amt": 103.27,
 		"desc": "The E3 Zero Waste campaign table at the Earth Day Fair focused on all things propagation! E3 discussed how propagation can be used to reduce food waste and taught students how to propagate vegetables such as lettuce, green onions, celery, and potatoes with demonstrations and direct and hands-on tutorials. They also gave out reused jars and containers for students to take home to use to propagate vegetables and allowed students to propagate their very own succulents on-site. Teaching students how to propagate their food can help reduce food waste, packaging waste, and money since regenerating produce decreases the amount of produce you throw away as well as the amount of produce you buy (and the packaging that comes along with it). Teaching students how to actually propagate their vegetables and succulents through hands-on and interactive demonstrations is both an enjoyable and effective way to reduce waste."
 	},
 	{
@@ -25,6 +28,7 @@
 		"year": 2022,
 		"name": "The Green Thumbs",
 		"org": "",
+		"amt": 130.48,
 		"desc": "The Green Thumbs, the stewards of garden plot 30, protect plants from consumption by animals by building a protective barrier around our garden plot. With lots of research into garden protection and hands-on experience with gardening across our team, they determined that a cage-like barrier is an excellent protection for plants, and makes sure that sustainable gardening on campus is safe and successful. By utilizing the garden space at UCLA, The Green Thumbs promote a healthy environment and educate themselves and other UCLA students on the importance of regenerative agriculture."
 	},
 	{
@@ -32,6 +36,7 @@
 		"year": 2022,
 		"name": "Unravel at UCLA",
 		"org": "Unravel Website and Fashion Revolution",
+		"amt": 186,
 		"desc": "Unravel, a sustainable fashion club, created a website that provides educational information regarding sustainability and environmental justice causes relating to the fashion industry. It highlights several topics ranging from general sustainability tips to opinion pieces in order to bring awareness to a broader scope of sustainability and labor issues. This allows them to reach a wider audience with an interest in sustainability and environmental justice. Through the website, Unravel provides consistent content to share throughout the year that will be promoted as a way to be a reliable educational resource for all students."
 	},
 	{
@@ -39,6 +44,7 @@
 		"year": 2022,
 		"name": "Institute of the Environment and Sustainability",
 		"org": "Ocean Acidification Outreach",
+		"amt": 65,
 		"desc": "IoES held an event to inform the general public about the effects of climate change, and more specifically ocean acidification, on both humans and the environment. This benefited the campus community by increasing their awareness of climate change effects on natural systems, and how humans will likely be affected. The project's research is aimed at understanding how natural systems will respond to changing environmental conditions and ensuring that the general public is aware of the possible effects is very important. Public awareness of the potential effects of climate change can increase sustainability efforts by the general public as they are informed of the effects of their unsustainable actions."
 	},
 	{
@@ -46,6 +52,7 @@
 		"year": 2022,
 		"name": "Team Plastic Policy Implementation for Sustainability Action Research",
 		"org": "Implementing the UCLA Single Use Plastics Policy at Dining locations on the Hill",
+		"amt": 306.66,
 		"desc": "The 2022 SAR Plastic Policy Implementation Team researches alternative utensils for the Hill which align with the UCLA Plastic Policy, looking into the feasibility of replacing the current PLA-based bioplastic utensils offered on the Hill, which are not compliant with the Plastics Policy, with either bamboo or wooden cutlery. With utensils used in a test project this quarter, SAR surveyed students by allowing them to test the utensils and collect their feedback."
 	},
 {
